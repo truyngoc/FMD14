@@ -1,0 +1,50 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+Ma_HQ 	Ma_LH	Số lượng bản ghi
+SL hàng             : 0
+Ma_HQ 	Ma_LH	Số lượng bản ghi
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 150860
+Ma_HQ 	Ma_LH	Số lượng bản ghi
+03PA	NGC03	305
+03PA	NGC18	3617
+03PA	XGC13	528
+03PA	XGC20	11
+03PA	NGC99	20
+03PA	NGC04	1073
+03PA	NGC17	40
+03PA	XGC01	54483
+03PA	XGC18	1315
+03PA	NGC13	10086
+03PA	XGC04	674
+03PA	NGC01	73632
+03PA	NGC02	1
+03PA	NGC20	169
+03PA	NGC19	2784
+03PA	XGC19	1947
+03PA	NGC21	175
+SL hàng             : 726122
+Ma_HQ 	Ma_LH	Số lượng bản ghi
+03PA	XGC20	230
+03PA	NGC03	527
+03PA	NGC18	42229
+03PA	XGC13	2262
+03PA	XGC19	3841
+03PA	NGC19	5584
+03PA	XGC01	255269
+03PA	XGC18	9558
+03PA	NGC21	1830
+03PA	XGC04	1949
+03PA	NGC99	53
+03PA	NGC01	366225
+03PA	NGC02	1
+03PA	NGC20	4634
+03PA	NGC04	2141
+03PA	NGC17	62
+03PA	NGC13	29727
+================MAX ID======================================
+MAX ID tờ khai      : 10300000150860

@@ -1,0 +1,35 @@
+Changed database context to 'ToKhaiSXXK'.
+
+(0 rows affected)
+
+(1 rows affected)
+Msg 207, Level 16, State 1, Server ACBBANK-02, Line 133
+Invalid column name 'CDDL_MA_DVT'.
+Changed database context to 'ToKhaiSXXK'.
+
+(0 rows affected)
+
+(0 rows affected)
+==================Tờ khai - update cột ===============
+09:16:58:437 - 1. Start DToKhaiMD
+
+(25 rows affected)
+09:16:58:453 - 2. Start join ecsToKhaiMD
+09:16:58:467 - 3. Start DHangMDTH h join DToKhaiMD
+09:16:58:483 - 4. Start DHangMDTH update VT_ID
+09:16:58:483 - 5. Start DHangMDTH update STTHang
+09:16:58:500 - 6. Start DHangMDDC update thong tin tờ khai
+09:16:58:507 - 7. Start DHangMDDC update VT_ID
+09:16:58:507 - 8. Start DHangMDDC update STTHang
+09:16:58:513 - 9. Start DHangMDDC update từ điều chỉnh chi tiết
+09:16:58:513 - 10. Start DNPLNHAP
+09:16:58:517 - 11. Start DNPLNHAP update VT_ID
+09:16:58:517 - 12. Start DNPLNHAP update thong tin từ TK
+09:16:58:517 - 13. Start DNPLNHAP update thong tin từ DHangMDTH
+09:16:58:517 - 14. Start DNPLNHAP update thong tin từ DHangMDDC
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)

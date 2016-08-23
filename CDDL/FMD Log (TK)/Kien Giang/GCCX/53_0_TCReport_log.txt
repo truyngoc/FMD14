@@ -1,0 +1,16 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 201
+SL hàng             : 207
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+53BC	NGC01	113	118
+53BC	XGC01	88	89
+================MAX ID======================================
+MAX ID tờ khai      : 15300000000201

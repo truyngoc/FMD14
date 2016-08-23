@@ -1,0 +1,34 @@
+MaHQ   server                  
+------ ------------------------
+01PJ   Server 2: 10.224.130.133
+01PL   Server 3: 10.224.130.143
+02PJ   Server 7: 10.224.130.183
+03PA   Server 7: 10.224.130.183
+03TG   Server 4: 10.224.130.153
+13BB   Server 1: 10.224.130.123
+13G1   Server 1: 10.224.130.123
+32KF   NULL                    
+37PB   NULL                    
+43PB   Server 5: 10.224.130.163
+47NB   Server 5: 10.224.130.163
+47PY   NULL                    
+60PA   NULL                    
+
+(13 rows affected)
+MaHQ   server                  
+------ ------------------------
+01PJ   Server 2: 10.224.130.133
+01PL   Server 3: 10.224.130.143
+02PJ   Server 7: 10.224.130.183
+03PA   Server 7: 10.224.130.183
+03TG   Server 4: 10.224.130.153
+13BB   Server 1: 10.224.130.123
+13G1   Server 1: 10.224.130.123
+32KF   NULL                    
+37PB   NULL                    
+43PB   Server 5: 10.224.130.163
+47NB   Server 5: 10.224.130.163
+47PY   NULL                    
+60PA   NULL                    
+
+(13 rows affected)

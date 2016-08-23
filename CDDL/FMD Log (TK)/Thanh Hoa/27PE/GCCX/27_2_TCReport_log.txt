@@ -1,0 +1,25 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 13717
+SL hàng             : 46780
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+27PE	NGC01	7623	27902
+27PE	NGC13	1247	3654
+27PE	NGC18	189	2584
+27PE	NGC19	33	65
+27PE	NGC21	7	10
+27PE	NGC99	3	6
+27PE	XGC01	4350	11583
+27PE	XGC04	5	16
+27PE	XGC13	180	313
+27PE	XGC18	56	585
+27PE	XGC21	24	62
+================MAX ID======================================
+MAX ID tờ khai      : 12702000013717

@@ -1,0 +1,47 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 495
+SL hàng             : 4973
+ma_hq  ma_lh sl_tk       sl_h       
+------ ----- ----------- -----------
+01TE   E21             1           2
+01TE   E52             1           1
+01TE   NCX01           4           5
+01TE   NCX04           2           4
+01TE   NSX02           2          12
+01TE   XCX01           1           1
+02CC   E11           321          18
+02CC   E15             5          30
+02CC   E21             0         164
+02CC   E42             4          24
+02CC   E46             5          30
+02CC   E52             0          56
+02CC   E56             0          70
+02CC   NCX01          28         117
+02CC   NCX03           2           4
+02CC   NCX04           2           4
+02CC   NGC01           8         384
+02CC   NGC18           1         154
+02CC   NKD01          43        1505
+02CC   NKD02          24        1072
+02CC   NKD03           0          16
+02CC   NKD04           0         304
+02CC   NKD05           0         176
+02CC   NKD06           0         144
+02CC   NKD07           0          64
+02CC   NSX01           6         115
+02CC   NSX02           2          92
+02CC   XCX01          12          61
+02CC   XCX04           1           1
+02CC   XGC01           8         190
+02CC   XGC02           0          14
+02CC   XGC19           1          37
+02CC   XKD01           4          14
+02CC   XSX01           2           2
+02CC   XSX02           1           1
+02CC   XSX03           2          34
+02CC   XSX05           2          51
+
+(37 rows affected)
+================MAX ID======================================
+MAX ID tờ khai      : 2140000000000183002

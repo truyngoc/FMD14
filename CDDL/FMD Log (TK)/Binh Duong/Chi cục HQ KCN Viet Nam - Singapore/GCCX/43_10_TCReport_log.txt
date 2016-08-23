@@ -1,0 +1,46 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 57674
+SL hàng             : 393535
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+43NF	NCX01	19403	132391
+43NF	NCX02	420	973
+43NF	NCX03	5612	32768
+43NF	NCX04	406	1624
+43NF	NCX05	165	500
+43NF	NGC01	203	1435
+43NF	NGC02	1121	3541
+43NF	NGC03	30	231
+43NF	NGC04	17	39
+43NF	NGC06	1	1
+43NF	NGC09	1414	6962
+43NF	NGC13	277	555
+43NF	NGC18	32	714
+43NF	NGC19	83	87
+43NF	NGC20	9	370
+43NF	NGC21	380	941
+43NF	NGC99	1	2
+43NF	XCX01	22429	179365
+43NF	XCX02	1	8
+43NF	XCX04	275	2173
+43NF	XCX05	252	549
+43NF	XGC01	284	2162
+43NF	XGC02	1431	7839
+43NF	XGC03	1	1
+43NF	XGC04	51	120
+43NF	XGC07	2	2
+43NF	XGC09	2731	15302
+43NF	XGC10	113	944
+43NF	XGC13	320	1449
+43NF	XGC18	2	44
+43NF	XGC19	206	342
+43NF	XGC20	2	101
+================MAX ID======================================
+MAX ID tờ khai      : 14310000057674

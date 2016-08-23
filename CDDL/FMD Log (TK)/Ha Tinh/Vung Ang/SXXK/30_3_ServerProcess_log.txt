@@ -1,0 +1,12 @@
+MaHQ   server                  
+------ ------------------------
+NULL   NULL                    
+30F1   Server 1: 10.224.130.123
+
+(2 rows affected)
+MaHQ   server                  
+------ ------------------------
+NULL   NULL                    
+30F1   Server 1: 10.224.130.123
+
+(2 rows affected)

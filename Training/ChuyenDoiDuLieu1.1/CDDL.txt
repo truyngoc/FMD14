@@ -1,0 +1,167 @@
+﻿Gia công:
+0. chạy script gen SoTN, NamTN cho tờ khai thủ công
+1. gen cột HD_ID trên bảng DHDGC
+2. MA_HQ: thêm cột, dùng script gen dữ liệu (đảo 2 ký tự số của mã cục lên đầu)
+3. các bảng NPL, SP, DN: dùng câu select join với bảng DHDGC để lấy HD_ID
+4. dùng tool config: phải sửa code để lấy dữ liệu từ câu query
+5. column Reference trong bảng đích uniqueidentifier not null: 1. alter table, đặt default value = newid(); 2. chuyển thành allow null
+6. trong bảng DGC_LOAI_SP, tại sao Tri_Gia_GC= Gia_GC * SoLuong?
+
+Vật tư:
+0. chạy script sinh SOTN, NamTN cho NPL, SP, Hàng mẫu...
+1. chạy script gen VT_ID
+
+định mức:
+0. chạy script gen DM_ID
+1. join với bảng NPL, SP... để lấy VT_ID
+
+quy trình
+1. restore db SLXNK_Cuc
+2. chạy script GD1_Buoc1_SLXNK_Add_Table_Column_1_1.sql: sửa dòng lệnh use SLXNK để trỏ đúng DB cần thao tác
+3. chạy script GD1_Buoc2_SLXNK_Check_DataType.sql: sửa dòng lệnh use SLXNK để trỏ đúng DB cần thao tác
+3.1 trong trường hợp các bảng NPL, SP, Thiết bị, Hàng mẫu không có quan hệ với bảng Hợp đồng: phải chạy script kiểm tra xem có bản ghi nào trùng không. Nếu có thì phải sửa để các số liệu thống kê bước sau khớp nhau
+select So_HD,Ma_HQHD,Ngay_Ky,DVGC,P_Code, COUNT(*) as [SL NPL GC trùng] from DNPLHD 
+group by So_HD,Ma_HQHD,Ngay_Ky,DVGC,P_Code
+having COUNT(*)>1
+select So_HD,Ma_HQHD,Ngay_Ky,DVGC,P_Code, COUNT(*) as [SL sản phẩm GC trùng] from DSPGC
+group by So_HD,Ma_HQHD,Ngay_Ky,DVGC,P_Code
+having COUNT(*)>1
+select So_HD,Ma_HQHD,Ngay_Ky,DVGC,P_Code, COUNT(*) as [SL thiết bị GC trùng] from DThietBi
+group by So_HD,Ma_HQHD,Ngay_Ky,DVGC,P_Code
+having COUNT(*)>1
+select So_HD,Ma_HQHD,Ngay_Ky,DVGC,P_Code, COUNT(*) as [SL hàng mẫu GC trùng] from ecsDHangMau
+group by So_HD,Ma_HQHD,Ngay_Ky,DVGC,P_Code
+having COUNT(*)>1
+3.2 phải bổ sung script kiểm tra sự toàn vẹn dữ liệu: NPL, SP, DM không có hợp đồng; DM không có NPL/SP
+--đếm hợp đồng GC
+select COUNT(*) as [Số lượng hợp đồng GC] from DHDGC
+select DVGC,COUNT(*) as [Số lượng] from DHDGC group by DVGC order by DVGC
+
+--đếm loại sản phẩm GC
+select COUNT(*) as [Số lượng loại SP GC] from DLOAISPGC
+select DVGC,COUNT(*) as [Số lượng loại SP GC theo DV] from DLOAISPGC group by DVGC order by DVGC
+
+--đếm nguyên liệu GC
+select COUNT(*) as [Số lượng NPL GC] from DNPLHD
+select DVGC,COUNT(*) as [Số lượng NPL GC theo DV] from DNPLHD group by DVGC order by DVGC
+--select SO_HD,COUNT(*) as [Số lượng NPL GC theo HD] from DNPLHD group by So_HD order by So_HD
+
+--đếm sản phẩm GC
+select COUNT(*) as [Số lượng SP GC] from DSPGC
+select DVGC,COUNT(*) as [Số lượng SP GC theo DV] from DSPGC group by DVGC order by DVGC
+--select SO_HD,COUNT(*) as [Số lượng SP GC theo HD] from DSPGC group by So_HD order by So_HD
+
+--đếm định mức GC
+select COUNT(*) as [Số lượng BGCT định mức GC] from DDMuc
+select DVGC,COUNT(*) as [Số lượng BGCT định mức GC theo DV] from DDMuc group by DVGC order by DVGC
+
+--đếm định mức GC sai hợp đồng
+select COUNT(*) as [SL BGCT định mức GC sai HĐ] from DDMuc dm left join DHDGC hd on dm.So_HD=hd.So_HD and dm.Ma_HQHD=hd.Ma_HQHD and dm.DVGC=hd.DVGC and dm.Ngay_Ky=hd.Ngay_Ky
+where hd.So_HD is null
+/*
+select COUNT(*) as [SL BGCT định mức GC sai NPL] from DDMuc dm left join DNPLHD l on dm.So_HD=l.So_HD and dm.Ma_HQHD=l.Ma_HQHD and dm.DVGC=l.DVGC and dm.Ngay_Ky=l.Ngay_Ky and dm.NPLP_Code=l.P_Code
+where not l.P_Code is null
+
+select COUNT(*) as [SL BGCT định mức GC sai SP] from DDMuc dm left join DSPGC s on dm.So_HD=s.So_HD and dm.Ma_HQHD=s.Ma_HQHD and dm.DVGC=s.DVGC and dm.Ngay_Ky=s.Ngay_Ky and dm.SPP_Code=s.P_Code
+where s.P_Code is null
+*/
+select COUNT(*) as [SL BGCT định mức sai NPL hoặc SP]
+from DDMuc dm join DHDGC hd on dm.So_HD=hd.So_HD and dm.Ma_HQHD=hd.Ma_HQHD and dm.DVGC=hd.DVGC and dm.Ngay_Ky=hd.Ngay_Ky
+	left join DNPLHD l on dm.So_HD=l.So_HD and dm.Ma_HQHD=l.Ma_HQHD and dm.DVGC=l.DVGC and dm.Ngay_Ky=l.Ngay_Ky and dm.NPLP_Code=l.P_Code
+	left join DSPGC s on dm.So_HD=s.So_HD and dm.Ma_HQHD=s.Ma_HQHD and dm.DVGC=s.DVGC and dm.Ngay_Ky=s.Ngay_Ky and dm.SPP_Code=s.P_Code
+where l.P_Code is null or s.P_Code is null
+
+4. chạy script bổ sung côt: (đẩy xuống địa phương làm)
+	ALTER TABLE dbo.DHDGC ADD
+		CDDL_ID int NOT NULL IDENTITY (1, 1),
+		CDDL_HD_ID bigint NULL,
+		CDDL_MA_CUC_HQ varchar(2) NULL,
+		CDDL_NAM_DK smallint NULL,
+		CDDL_MA_HQ_HD varchar(6) NULL
+	GO
+	ALTER TABLE dbo.DNPLHD ADD
+		CDDL_ID int NOT NULL IDENTITY (1, 1),
+		CDDL_VT_ID bigint NULL
+	GO
+	ALTER TABLE dbo.DSPGC ADD
+		CDDL_ID int NOT NULL IDENTITY (1, 1),
+		CDDL_VT_ID bigint NULL
+	GO
+	ALTER TABLE dbo.DThietBi ADD
+		CDDL_ID int NOT NULL IDENTITY (1, 1),
+		CDDL_VT_ID bigint NULL
+	GO
+	ALTER TABLE dbo.ecsDHangMau ADD
+		CDDL_ID int NOT NULL IDENTITY (1, 1),
+		CDDL_VT_ID bigint NULL
+	GO
+	--mất ~10phút cho bảng ~2M bản ghi
+	ALTER TABLE dbo.DDMuc ADD
+		CDDL_ID int NOT NULL IDENTITY (1, 1),
+		CDDL_DM_ID bigint NULL
+	GO
+5. chạy script điền dữ liệu
+	CDDL_HD_ID: 1{xx:mã hq}{xxxxxxxxxx:CDDL_ID}
+	CDDL_MA_CUC_HQ: 2 ký tự số Cục HQ
+	CDDL_NAM_DK: năm dk
+	CDDL_MA_HQ_HD: đảo mã cục HQ lên đầu
+Update DHDGC
+	 Set	CDDL_HD_ID		= 1000000000000 + SUBSTRING(ma_hqhd,2,2)*10000000000 + CDDL_ID
+			,CDDL_MA_Cuc_HQ	= SUBSTRING(ma_hqhd,2,2)
+			,CDDL_NAM_DK	= datepart(YY,ngay_ky)
+			,CDDL_MA_HQ_HD	= SUBSTRING(ma_hqhd,2,2) + SUBSTRING(ma_hqhd,1,1) + SUBSTRING(ma_hqhd,4,10)
+	GO
+Update DNPLHD
+	 Set	CDDL_VT_ID		= 1000000000000 + SUBSTRING(ma_hqhd,2,2)*10000000000 + CDDL_ID
+	GO
+Update DSPGC
+	 Set	CDDL_VT_ID		= 1000000000000 + SUBSTRING(ma_hqhd,2,2)*10000000000 + CDDL_ID
+	GO
+Update DThietBi
+	 Set	CDDL_VT_ID		= 1000000000000 + SUBSTRING(ma_hqhd,2,2)*10000000000 + CDDL_ID
+	GO
+Update ecsDHangMau
+	 Set	CDDL_VT_ID		= 1000000000000 + SUBSTRING(ma_hqhd,2,2)*10000000000 + CDDL_ID
+	GO
+	--mất ~2phút cho bảng ~2.5M bản ghi
+Update DDMuc
+	 Set	CDDL_DM_ID		= 1000000000000 + SUBSTRING(ma_hqhd,2,2)*10000000000 + CDDL_ID
+	GO
+6. lấy dữ liệu
+DHDGC:
+	Select * From DHDGC
+DLOAISPGC:
+	Select top 10 hd.CDDL_HD_ID, hd.CDDL_MA_CUC_HQ, hd.CDDL_NAM_DK, hd.CDDL_MA_HQ_HD
+			,lsp.*
+			,lsp.Gia_GC*lsp.So_Luong as Tri_Gia_GC	
+	From DLOAISPGC lsp join DHDGC hd on lsp.So_HD=hd.So_HD and lsp.Ma_HQHD=hd.Ma_HQHD and lsp.DVGC=hd.DVGC and lsp.Ngay_Ky=hd.Ngay_Ky
+DNPLHD:
+select top 10 a.CDDL_VT_ID, hd.CDDL_HD_ID, hd.CDDL_MA_CUC_HQ, hd.CDDL_NAM_DK, hd.CDDL_MA_HQ_HD
+		,SUBSTRING(a.P_Code,2,50) as Ma_Vat_Tu
+		,a.*
+from DNPLHD a join DHDGC hd on a.So_HD=hd.So_HD and a.Ma_HQHD=hd.Ma_HQHD and a.DVGC=hd.DVGC and a.Ngay_Ky=hd.Ngay_Ky
+DSPGC:
+select top 10 a.CDDL_VT_ID, hd.CDDL_HD_ID, hd.CDDL_MA_CUC_HQ, hd.CDDL_NAM_DK, hd.CDDL_MA_HQ_HD
+		,SUBSTRING(a.P_Code,2,50) as Ma_Vat_Tu
+		,a.*
+from DSPGC a join DHDGC hd on a.So_HD=hd.So_HD and a.Ma_HQHD=hd.Ma_HQHD and a.DVGC=hd.DVGC and a.Ngay_Ky=hd.Ngay_Ky
+DThietBi:
+select top 10 a.CDDL_VT_ID, hd.CDDL_HD_ID, hd.CDDL_MA_CUC_HQ, hd.CDDL_NAM_DK, hd.CDDL_MA_HQ_HD
+		,SUBSTRING(a.P_Code,2,50) as Ma_Vat_Tu
+		,a.*
+from DThietBi a join DHDGC hd on a.So_HD=hd.So_HD and a.Ma_HQHD=hd.Ma_HQHD and a.DVGC=hd.DVGC and a.Ngay_Ky=hd.Ngay_Ky
+ecsDHangMau:
+select top 10 a.CDDL_VT_ID, hd.CDDL_HD_ID, hd.CDDL_MA_CUC_HQ, hd.CDDL_NAM_DK, hd.CDDL_MA_HQ_HD
+		,SUBSTRING(a.P_Code,2,50) as Ma_Vat_Tu
+		,a.*
+from ecsDHangMau a join DHDGC hd on a.So_HD=hd.So_HD and a.Ma_HQHD=hd.Ma_HQHD and a.DVGC=hd.DVGC and a.Ngay_Ky=hd.Ngay_Ky
+DDMuc:
+select top 100 dm.CDDL_DM_ID, hd.CDDL_HD_ID, hd.CDDL_MA_CUC_HQ, hd.CDDL_NAM_DK, hd.CDDL_MA_HQ_HD
+		,SUBSTRING(dm.SPP_Code,2,50) as Ma_Vat_Tu_SP
+		,SUBSTRING(dm.NPLP_Code,2,50) as Ma_Vat_Tu_NPL
+		, l.CDDL_VT_ID as VT_ID_NPL
+		, s.CDDL_VT_ID as VT_ID_SP
+		,dm.*
+from DDMuc dm join DHDGC hd on dm.So_HD=hd.So_HD and dm.Ma_HQHD=hd.Ma_HQHD and dm.DVGC=hd.DVGC and dm.Ngay_Ky=hd.Ngay_Ky
+	join DNPLHD l on dm.So_HD=l.So_HD and dm.Ma_HQHD=l.Ma_HQHD and dm.DVGC=l.DVGC and dm.Ngay_Ky=l.Ngay_Ky and dm.NPLP_Code=l.P_Code
+	join DSPGC s on dm.So_HD=s.So_HD and dm.Ma_HQHD=s.Ma_HQHD and dm.DVGC=s.DVGC and dm.Ngay_Ky=s.Ngay_Ky and dm.SPP_Code=s.P_Code

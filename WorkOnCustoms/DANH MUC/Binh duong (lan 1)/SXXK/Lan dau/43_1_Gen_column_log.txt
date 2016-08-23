@@ -1,0 +1,11 @@
+
+Sqlcmd: Warning: The last operation was terminated because the user pressed CTRL+C.
+Msg 2705, Level 16, State 4, Server ACBBANK-02, Line 2
+Column names in each table must be unique. Column name 'CDDL_Ma_DVT' in table 'dbo.SNPL' is specified more than once.
+--=====================SXXK - update key======================
+update SNPL
+
+(14771 rows affected)
+update SSP
+update DDINHMUC
+END====================SXXK - Update key======================

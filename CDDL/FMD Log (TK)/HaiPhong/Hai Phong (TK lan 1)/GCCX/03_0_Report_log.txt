@@ -1,0 +1,9 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai (DToKhaiMD)          : 150860
+SL tờ khai (ecsecsToKhaiMD)     : 150176
+SL hàng							: 726122
+SL bản ghi bảng ecsNPLTCU (GC)		: 109588
+SL bản ghi bảng ecsNPLTCU_CT (GC)	: 110115
+SL bản ghi bảng ecsCX_HUY_NPLSP_D (Chế xuất): 0
+SL NPL, SP hủy (Chế xuất)			: 0

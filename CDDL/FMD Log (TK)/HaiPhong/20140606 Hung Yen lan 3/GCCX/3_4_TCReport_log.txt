@@ -1,0 +1,38 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 32286
+SL hàng             : 156307
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+03PL	NCX01	1775	12335
+03PL	NCX02	204	794
+03PL	NCX03	1290	4862
+03PL	NCX04	1128	8523
+03PL	NCX05	2	3
+03PL	NGC01	14007	73463
+03PL	NGC04	57	170
+03PL	NGC13	1399	3121
+03PL	NGC18	238	4824
+03PL	NGC19	104	180
+03PL	NGC20	28	477
+03PL	NGC21	231	2487
+03PL	NGC23	8	18
+03PL	NGC99	10	29
+03PL	XCX01	1954	13457
+03PL	XCX02	3	3
+03PL	XCX04	23	91
+03PL	XCX05	23	33
+03PL	XGC01	9526	29210
+03PL	XGC04	36	110
+03PL	XGC13	30	950
+03PL	XGC18	69	586
+03PL	XGC20	2	18
+03PL	XGC21	139	563
+================MAX ID======================================
+MAX ID tờ khai      : 10304000032286

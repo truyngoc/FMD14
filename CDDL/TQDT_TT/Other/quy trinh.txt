@@ -1,0 +1,18 @@
+﻿A. quy trình cho giai đoạn 1
+A.1. đối với CSDL SLXNK
+I. quy trình cho cán bộ Cục:
+1. backup dữ liệu SLXNK_Cuc
+2. Chạy 2 script kiểm tra bảng trên db SLXNK_Cuc
+2. Chạy script tạo identity
+3. chạy script export dữ liệu
+-tùy trường hợp có thông báo lỗi hay không mà chạy script xóa dữ liệu lỗi và chạy lại script report
+4. backup DB DanhMucGCCX, chuyển về TCHQ
+
+II. Quy trình cho cán bộ triển khai tại Tổng cục
+1. restore DB DanhMucGCCX
+2. Chạy script B.6. Gen column trên DB DanhMucGCCX
+đối chiếu report kết quả với bản in report địa phương gửi lên
+xử lý dữ liệu lỗi nếu có
+3. Chạy script B.8. chuyển đổi dữ liệu
+căn cứ vào report trước và sau chuyển đổi để lập report chuyển đổi dữ liệu
+đối soát với report lập ở bước 2 để xác nhận kết quả chuyển đổi dữ liệu

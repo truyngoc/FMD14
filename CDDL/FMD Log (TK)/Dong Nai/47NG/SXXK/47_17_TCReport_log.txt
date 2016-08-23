@@ -1,0 +1,49 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0 + 0
+SL hàng             : 0 + 0
+SL NPL tồn          : 0 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 209395 + 44
+SL hàng             : 797946 + 111
+SL NPL tồn          : 9914 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+02CK	XSX05	1	1	0
+27PC	XGC01	1	1	0
+47D2	XGC01	1	1	0
+47D2	XGC13	1	1	0
+47D2	XSX01	5	5	0
+47NF	XSX01	36	166	0
+47NG	NDT01	1	0	0
+47NG	NDT08	2	0	0
+47NG	NGC01	4	0	0
+47NG	NKD01	5	15	4
+47NG	NKD05	66	161	1
+47NG	NSX01	7981	65280	7584
+47NG	NSX02	1828	11100	651
+47NG	NSX03	519	2318	536
+47NG	NSX04	232	1499	0
+47NG	NSX06	1994	24096	1138
+47NG	NSX08	44	94	0
+47NG	NTA24	2	0	0
+47NG	NTA25	2	0	0
+47NG	XGC01	552	707	0
+47NG	XGC03	2	2	0
+47NG	XKD01	18	19	0
+47NG	XSX01	169536	586102	0
+47NG	XSX02	11	11	0
+47NG	XSX03	1585	6012	0
+47NG	XSX05	581	5729	0
+47NG	XSX06	24259	93397	0
+47NG	XSX08	57	586	0
+47NG	XTA02	54	599	0
+47NG	XTA10	2	2	0
+47NG	XTA19	4	25	0
+47NG	XTA23	8	16	0
+53CH	XGC01	1	1	0
+54PH	XSX06	1	1	0
+60PA	XSX01	1	1	0
+61VD	XSX01	22	89	0
+61VD	XSX02	20	20	0

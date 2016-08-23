@@ -1,0 +1,5 @@
+Msg 2705, Level 16, State 4, Server ACBBANK-02, Line 1
+Column names in each table must be unique. Column name 'CDDL_MA_DVT' in table 'dbo.DHangMD' is specified more than once.
+==================Tờ khai - update cột ===============
+
+(22161 rows affected)

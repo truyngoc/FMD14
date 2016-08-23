@@ -1,0 +1,36 @@
+MaHQ   server                  
+------ ------------------------
+01E1   Server 2: 10.224.130.133
+01E2   Server 1: 10.224.130.123
+01E3   Server 1: 10.224.130.123
+01PP   NULL                    
+60PA   NULL                    
+
+(5 rows affected)
+MaHQ   server                  
+------ ------------------------
+01E1   Server 2: 10.224.130.133
+01E2   Server 1: 10.224.130.123
+01E3   Server 1: 10.224.130.123
+01PP   NULL                    
+60PA   NULL                    
+
+(5 rows affected)
+MaHQ   server                  
+------ ------------------------
+01E1   Server 2: 10.224.130.133
+01E2   Server 1: 10.224.130.123
+01E3   Server 1: 10.224.130.123
+01PP   NULL                    
+60PA   NULL                    
+
+(5 rows affected)
+MaHQ   server                  
+------ ------------------------
+01E1   Server 2: 10.224.130.133
+01E2   Server 1: 10.224.130.123
+01E3   Server 1: 10.224.130.123
+01PP   NULL                    
+60PA   NULL                    
+
+(5 rows affected)

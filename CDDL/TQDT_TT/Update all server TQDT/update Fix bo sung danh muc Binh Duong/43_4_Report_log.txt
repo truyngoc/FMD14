@@ -1,0 +1,5 @@
+--============ Kết xuất dữ liệu danh mục từ ECUSTOMS_ONLINE ======================
+bat dau export tu online nao
+
+(2510 rows affected)
+--============ add PK ========================

@@ -1,0 +1,3 @@
+Changed database context to 'ToKhaiSXXK'.
+Msg 208, Level 16, State 1, Server ACBBANK-02, Line 2
+Invalid object name 'dhangmddk'.

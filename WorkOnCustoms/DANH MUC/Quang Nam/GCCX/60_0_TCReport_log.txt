@@ -1,0 +1,60 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Gia công====================================
+SL hợp đồng GC          : 0
+SL loại sản phẩm GC     : 0
+SL NPL GC               : 0
+SL SP GC                : 0
+SL thiết bị GC          : 0
+SL hàng mẫu GC          : 0
+SL chi tiết định mức GC : 0
+===============Chế xuất====================
+SL danh mục đưa hàng VÀO: 0
+SL danh mục đưa hàng RA : 0
+SL bản ghi định mức CX  : 0
+SL bản ghi CT tờ khai   : 0
+SL bản ghi CT hàng      : 0
+=========MAX ID======================================================
+=========Gia công====================================================
+MAX ID hợp đồng GC      : 0
+MAX ID loại SP GC       : N/A
+MAX ID NPL GC           : 0
+MAX ID SP GC            : 0
+MAX ID thiết bị GC      : 0
+MAX ID hàng mẫu GC      : 0
+MAX ID định mức GC      : 0
+=========Ch? xu?t====================================================
+MAX ID hàng đưa VÀO     : 0
+MAX ID hàng đưa RA      : 0
+MAX ID Định mức CX      : 0
+MAX ID CT Tờ khai       : 0
+MAX ID CT hàng          : 0
+===============Số liệu SAU chuyển đổi====================
+===============Gia công==================================
+SL hợp đồng GC          : 1047
+SL loại sản phẩm GC     : 819		(thieu 1 do ko join dc voi DSPGC de lay thong tin CDDL_MA_HQ_HD)
+SL NPL GC               : 33564
+SL SP GC                : 44990
+SL thiết bị GC          : 915
+SL hàng mẫu GC          : 0
+SL chi tiết định mức GC : 960910
+===============Chế xuất==================================
+SL danh mục đưa hàng VÀO: 397
+SL danh mục đưa hàng RA : 1482
+SL bản ghi định mức CX  : 0
+SL bản ghi CT tờ khai   : 0
+SL bản ghi CT hàng      : 0
+=========MAX ID======================================================
+=========Gia công====================================================
+MAX ID hợp đồng GC      : 16000000002102
+MAX ID loại SP GC       : N/A
+MAX ID NPL GC           : 16000100054887
+MAX ID SP GC            : 16000200149268
+MAX ID thiết bị GC      : 16000300001175
+MAX ID hàng mẫu GC      : 0
+MAX ID định mức GC      : 16000501942269
+=========Ch? xu?t====================================================
+MAX ID hàng đưa VÀO     : 16000600000766
+MAX ID hàng đưa RA      : 16000700001608
+MAX ID Định mức CX      : 0
+MAX ID CT Tờ khai       : 0
+MAX ID CT hàng          : 0

@@ -1,0 +1,19 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0 + 0
+SL hàng             : 0 + 0
+SL NPL tồn          : 0 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 2221 + 0
+SL hàng             : 20223 + 0
+SL NPL tồn          : 1154 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+51BE	NSX01	1377	16866	1136
+51BE	NSX02	55	137	0
+51BE	NSX06	272	1671	18
+51BE	XSX01	497	1469	0
+51BE	XSX02	1	1	0
+51BE	XSX05	1	1	0
+51BE	XSX08	18	78	0

@@ -1,0 +1,42 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 57580
+SL hàng             : 417712
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+47XE	NCX01	19940	210259
+47XE	NCX02	401	1355
+47XE	NCX03	4344	42661
+47XE	NCX04	66	278
+47XE	NCX05	19	37
+47XE	NGC01	2196	18716
+47XE	NGC04	14	105
+47XE	NGC13	65	548
+47XE	NGC18	18	767
+47XE	NGC19	6	11
+47XE	NGC20	5	113
+47XE	NGC21	277	1744
+47XE	NGC22	1	1
+47XE	NGC23	3	3
+47XE	XCX01	26996	117591
+47XE	XCX02	46	149
+47XE	XCX03	21	84
+47XE	XCX04	74	268
+47XE	XCX05	213	737
+47XE	XGC01	2771	21650
+47XE	XGC04	6	22
+47XE	XGC06	1	1
+47XE	XGC10	1	2
+47XE	XGC13	18	87
+47XE	XGC18	38	317
+47XE	XGC19	18	39
+47XE	XGC20	1	2
+47XE	XGC21	21	165
+================MAX ID======================================
+MAX ID tờ khai      : 14710000057580

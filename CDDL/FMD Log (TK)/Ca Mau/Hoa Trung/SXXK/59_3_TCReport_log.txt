@@ -1,0 +1,22 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0 + 0
+SL hàng             : 0 + 0
+SL NPL tồn          : 0 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 11947 + 85
+SL hàng             : 18423 + 91
+SL NPL tồn          : 331 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+48QH	XSX01	85	91	0
+59BD	NKD19	1	4	0
+59BD	NSX01	1234	3570	265
+59BD	NSX08	53	132	0
+59BD	XKD01	14	52	0
+59BD	XSX01	6751	10069	0
+59BD	XSX05	6	6	0
+59CB	NSX01	474	733	66
+59CB	NSX03	1	1	0
+59CB	XSX01	3413	3856	0

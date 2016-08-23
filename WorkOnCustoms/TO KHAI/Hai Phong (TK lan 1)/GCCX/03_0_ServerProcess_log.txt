@@ -1,0 +1,5 @@
+MaHQ   server                  
+------ ------------------------
+03PA   Server 7: 10.224.130.183
+
+(1 rows affected)

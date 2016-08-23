@@ -1,0 +1,7 @@
+--=====================SXXK - update key======================
+update SNPL
+
+(94533 rows affected)
+update SSP
+update DDINHMUC
+END====================SXXK - Update key======================

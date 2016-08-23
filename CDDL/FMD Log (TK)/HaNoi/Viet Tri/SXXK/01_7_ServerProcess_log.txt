@@ -1,0 +1,22 @@
+MaHQ   server                  
+------ ------------------------
+01M1   Server 1: 10.224.130.123
+60PA   NULL                    
+47NB   Server 5: 10.224.130.163
+01NV   Server 1: 10.224.130.123
+01PP   NULL                    
+01PJ   Server 2: 10.224.130.133
+01PL   Server 3: 10.224.130.143
+
+(7 rows affected)
+MaHQ   server                  
+------ ------------------------
+60PA   NULL                    
+47NB   Server 5: 10.224.130.163
+01M1   Server 1: 10.224.130.123
+01PJ   Server 2: 10.224.130.133
+01PL   Server 3: 10.224.130.143
+01NV   Server 1: 10.224.130.123
+01PP   NULL                    
+
+(7 rows affected)

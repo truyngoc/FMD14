@@ -1,0 +1,137 @@
+﻿
+print N'--=====================SXXK - đổ dữ liệu vào eCustoms======================'
+-- Nguyen phu lieu
+print 'Insert From SNPL Into DSX_SP_NPL'
+Insert Into DSX_SP_NPL(
+	VT_ID
+	,MA_HQ
+	,MA_CUC_HQ
+	,NAM_DK
+	,NAM_TK
+	,MA_DV
+	,MA_VAT_TU
+	,LOAI
+	,TEN_VAT_TU
+	,MA_HS
+	,MA_DVT
+	,SO_TN
+	,NAM_TN
+	,MessageID
+	--,Reference
+)
+Select
+	CDDL_VT_ID
+	,rtrim(CDDL_MA_HQ)
+	,CDDL_MA_CUC_HQ
+	,isnull(Nam_TN,2007) as Nam_TN
+	,CDDL_NAM_TK
+	,MA_DV
+	,MA_NPL
+	,1 as LOAI
+	,isnull(TEN_NPL,' ') as TEN_NPL
+	,isnull(MA_HS,' ') as MA_HS
+	,isnull(CDDL_MA_DVT,' ') as CDDL_MA_DVT
+	,So_TN
+	,Nam_TN
+	,0 as MessageID	
+From	$(lnksrv_name).$(sxxk_dbname_src).dbo.SNPL
+Where	CDDL_MA_HQ in ('01B2','01AC','01BT','01D1','01D2','01D3','01IK','01NV','01M1','01M2','01SI','01E2','01E3','02B1','02AB01','02AB02','02AB03','02AB05','02CC','02H1','02H2','02H3','02CV','02K1','10BB','10BC','10BD','10BF','10BI','11B1','11B2','11BE','11BF','11G1','11G2','11BH','11PK','12B1','12B2','12BE','12H1','12H2','12BI','12F1','12F2','13BB','13BB01','13BC','13BD','13G1','13G2','15B1','15B2','15BC','15BD','15E1','15E2','15E3','15E4','15SI','18B1','18B2','20BC','20BD','20CD','20CE','20CF','20CG','27B1','27B2','27F1','27F2','27PC02','29BB','29BH','29CC','29PF','30BB','30BE','30BI','30CC','30F1','30F2','31BB','31BF','31D1','31D2','31D3','32BB','32BC','32CD','32VG','33A1','33A2','33CC','33CF','33PD02','34AB','34CC','34CE','34NH','35CB','35NC','37CB','37TC','38B1','38B2','38BC','38PD','40BB','40B1','40B2','40BC','40BC01','40PD','40D1','40D2','41BH','41CB','41CC','41PE','43CN','43IH01','43H2','45B1','45B2','45C1','45C2','45BD','45BE','47I1','47I2','47NM','48BC','48BD','48BE','48BF01','48F1','48F2','48BI','49BB','49BE','49BF','49BG','49C1','49C2','50BB','50BC','50BD','50BJ','50BK','50CE','51BE','51CB','51C2','51CH','51CI','53BC01','53BK','53CD','53CH','54CB','54CD','54PH','54PK','59BD','59CB','60BD','60CB','60C1','60C2','61A1','61A2','61B1','61B2','61A3','61A4','27PC'
+)
+
+-- San pham
+print 'Insert From SSP Into DSX_SP_NPL'
+Insert Into DSX_SP_NPL(
+	VT_ID
+	,MA_HQ
+	,MA_CUC_HQ
+	,NAM_DK
+	,NAM_TK
+	,MA_DV
+	,MA_VAT_TU
+	,LOAI
+	,TEN_VAT_TU
+	,MA_HS
+	,MA_DVT
+	,SO_TN
+	,NAM_TN
+	,MessageID
+	--,Reference
+)
+Select
+	CDDL_VT_ID
+	,rtrim(CDDL_MA_HQ)
+	,CDDL_MA_CUC_HQ
+	,isnull(Nam_TN,2007) as Nam_TN
+	,CDDL_NAM_TK
+	,MA_DV
+	,MA_SP
+	,2 as LOAI
+	,isnull(TEN_SP,' ') as TEN_SP
+	,isnull(MA_HS,' ') as MA_HS
+	,isnull(CDDL_MA_DVT,' ') as CDDL_MA_DVT
+	,So_TN
+	,Nam_TN
+	,0 as MessageID
+
+From	$(lnksrv_name).$(sxxk_dbname_src).dbo.SSP
+Where	CDDL_MA_HQ in ('01B2','01AC','01BT','01D1','01D2','01D3','01IK','01NV','01M1','01M2','01SI','01E2','01E3','02B1','02AB01','02AB02','02AB03','02AB05','02CC','02H1','02H2','02H3','02CV','02K1','10BB','10BC','10BD','10BF','10BI','11B1','11B2','11BE','11BF','11G1','11G2','11BH','11PK','12B1','12B2','12BE','12H1','12H2','12BI','12F1','12F2','13BB','13BB01','13BC','13BD','13G1','13G2','15B1','15B2','15BC','15BD','15E1','15E2','15E3','15E4','15SI','18B1','18B2','20BC','20BD','20CD','20CE','20CF','20CG','27B1','27B2','27F1','27F2','27PC02','29BB','29BH','29CC','29PF','30BB','30BE','30BI','30CC','30F1','30F2','31BB','31BF','31D1','31D2','31D3','32BB','32BC','32CD','32VG','33A1','33A2','33CC','33CF','33PD02','34AB','34CC','34CE','34NH','35CB','35NC','37CB','37TC','38B1','38B2','38BC','38PD','40BB','40B1','40B2','40BC','40BC01','40PD','40D1','40D2','41BH','41CB','41CC','41PE','43CN','43IH01','43H2','45B1','45B2','45C1','45C2','45BD','45BE','47I1','47I2','47NM','48BC','48BD','48BE','48BF01','48F1','48F2','48BI','49BB','49BE','49BF','49BG','49C1','49C2','50BB','50BC','50BD','50BJ','50BK','50CE','51BE','51CB','51C2','51CH','51CI','53BC01','53BK','53CD','53CH','54CB','54CD','54PH','54PK','59BD','59CB','60BD','60CB','60C1','60C2','61A1','61A2','61B1','61B2','61A3','61A4','27PC'
+)
+
+-- Dinh muc
+print 'Insert From DDINHMUC Into DSX_DINH_MUC'
+Insert Into DSX_DINH_MUC(
+	DM_ID
+	,MA_HQ
+	,MA_CUC_HQ
+	,NAM_DK
+	,MA_DV
+	,VT_ID_SP
+	,MA_VAT_TU_SP
+	,TEN_VAT_TU_SP
+	,MA_DVT_SP
+	,MA_HS_SP
+	,VT_ID_NPL
+	,MA_VAT_TU_NPL
+	,TEN_VAT_TU_NPL
+	,MA_DVT_NPL
+	,MA_HS_NPL
+	,DM_SD
+	,TL_HH
+	,DM_CHUNG
+	,GHI_CHU
+	,So_TN
+	,Nam_TN
+	,Kiem_Tra_TT
+	,Sua_Sau_Kiem_Tra_TT
+	,MessageID
+	--,Reference
+)
+Select
+	CDDL_DM_ID
+	,rtrim(CDDL_MA_HQ)
+	,CDDL_MA_CUC_HQ
+	,isnull(Nam_TN, 2007) as NAM_TN
+	,MA_DV
+	,isnull(CDDL_VT_ID_SP,0) as CDDL_VT_ID_SP
+	,isnull(MA_SP,' ') as MA_SP
+	,isnull(CDDL_TEN_VAT_TU_SP,' ') as CDDL_TEN_VAT_TU_SP
+	,isnull(CDDL_MA_DVT_SP,' ') as CDDL_MA_DVT_SP
+	,isnull(CDDL_MA_HS_SP,' ') as CDDL_MA_HS_SP
+	,isnull(CDDL_VT_ID_NPL,0) as CDDL_VT_ID_NPL
+	,isnull(MA_NPL,' ') as MA_NPL
+	,isnull(CDDL_TEN_VAT_TU_NPL,' ') as CDDL_TEN_VAT_TU_NPL
+	,isnull(CDDL_MA_DVT_NPL,' ') as CDDL_MA_DVT_NPL
+	,isnull(CDDL_MA_HS_NPL,' ') as CDDL_MA_HS_NPL
+	,isnull(DM_SD,0) as DM_SD
+	,isnull(TL_HH,0) as TL_HH
+	,isnull(DM_CHUNG,0) as DM_CHUNG
+	,GHI_CHU
+	,So_TN
+	,Nam_TN
+	,ecsKiemTraTT
+	,ecsSua_SauKTTT
+	,0 as MessageID
+From	$(lnksrv_name).$(sxxk_dbname_src).dbo.DDINHMUC
+Where	CDDL_MA_HQ in ('01B2','01AC','01BT','01D1','01D2','01D3','01IK','01NV','01M1','01M2','01SI','01E2','01E3','02B1','02AB01','02AB02','02AB03','02AB05','02CC','02H1','02H2','02H3','02CV','02K1','10BB','10BC','10BD','10BF','10BI','11B1','11B2','11BE','11BF','11G1','11G2','11BH','11PK','12B1','12B2','12BE','12H1','12H2','12BI','12F1','12F2','13BB','13BB01','13BC','13BD','13G1','13G2','15B1','15B2','15BC','15BD','15E1','15E2','15E3','15E4','15SI','18B1','18B2','20BC','20BD','20CD','20CE','20CF','20CG','27B1','27B2','27F1','27F2','27PC02','29BB','29BH','29CC','29PF','30BB','30BE','30BI','30CC','30F1','30F2','31BB','31BF','31D1','31D2','31D3','32BB','32BC','32CD','32VG','33A1','33A2','33CC','33CF','33PD02','34AB','34CC','34CE','34NH','35CB','35NC','37CB','37TC','38B1','38B2','38BC','38PD','40BB','40B1','40B2','40BC','40BC01','40PD','40D1','40D2','41BH','41CB','41CC','41PE','43CN','43IH01','43H2','45B1','45B2','45C1','45C2','45BD','45BE','47I1','47I2','47NM','48BC','48BD','48BE','48BF01','48F1','48F2','48BI','49BB','49BE','49BF','49BG','49C1','49C2','50BB','50BC','50BD','50BJ','50BK','50CE','51BE','51CB','51C2','51CH','51CI','53BC01','53BK','53CD','53CH','54CB','54CD','54PH','54PK','59BD','59CB','60BD','60CB','60C1','60C2','61A1','61A2','61B1','61B2','61A3','61A4','27PC'
+)
+

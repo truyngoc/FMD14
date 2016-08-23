@@ -1,0 +1,14 @@
+MaHQ   server                  
+------ ------------------------
+03CD   Server 2: 10.224.130.133
+03EE   Server 3: 10.224.130.143
+01E1   Server 2: 10.224.130.133
+01AB   NULL                    
+01M1   Server 1: 10.224.130.123
+20CD   Server 1: 10.224.130.123
+03PL   Server 4: 10.224.130.153
+15BB   NULL                    
+03PA   Server 7: 10.224.130.183
+32KF   NULL                    
+
+(10 rows affected)

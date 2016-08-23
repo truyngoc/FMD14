@@ -1,0 +1,18 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 74
+SL hàng             : 340
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+45F2	NCX01	27	27
+45F2	NCX02	6	33
+45F2	NCX04	21	198
+45F2	XCX01	20	82
+================MAX ID======================================
+MAX ID tờ khai      : 14508000000074

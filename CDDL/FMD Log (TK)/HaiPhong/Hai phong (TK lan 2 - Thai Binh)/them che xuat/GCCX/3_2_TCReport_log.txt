@@ -1,0 +1,42 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 20716
+SL hàng             : 79551
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+03CD	NGC01	8949	31112
+03CD	NGC04	12	27
+03CD	NGC13	1418	9786
+03CD	NGC18	188	4476
+03CD	NGC19	1	4
+03CD	NGC20	16	133
+03CD	NGC21	11	30
+03CD	XGC01	9938	32575
+03CD	XGC04	80	147
+03CD	XGC13	31	92
+03CD	XGC18	72	1169
+================MAX ID======================================
+MAX ID tờ khai      : 10302000020716
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 22161
+SL hàng             : 89557
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+03CD	NCX01	556	2532
+03CD	NCX02	15	28
+03CD	NCX03	123	1304
+03CD	NCX04	180	289
+03CD	NGC01	8949	31112
+03CD	NGC04	12	27
+03CD	NGC13	1418	9786
+03CD	NGC18	188	4476
+03CD	NGC19	1	4
+03CD	NGC20	16	133
+03CD	NGC21	11	30
+03CD	XCX01	395	5427
+03CD	XCX04	176	426
+03CD	XGC01	9938	32575
+03CD	XGC04	80	147
+03CD	XGC13	31	92
+03CD	XGC18	72	1169
+================MAX ID======================================
+MAX ID tờ khai      : 10302000022161

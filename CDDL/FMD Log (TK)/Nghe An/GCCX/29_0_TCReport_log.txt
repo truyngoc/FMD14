@@ -1,0 +1,21 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 1297
+SL hàng             : 4196
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+29PF	NGC01	901	3076
+29PF	NGC13	51	93
+29PF	NGC18	12	171
+29PF	NGC19	12	25
+29PF	XGC01	317	795
+29PF	XGC18	2	34
+29PF	XGC21	2	2
+================MAX ID======================================
+MAX ID tờ khai      : 12900000001297

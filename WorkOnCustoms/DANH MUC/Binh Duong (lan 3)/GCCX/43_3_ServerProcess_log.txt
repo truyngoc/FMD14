@@ -1,0 +1,8 @@
+MaHQ   server                  
+------ ------------------------
+43IH   NULL                    
+43ND   Server 6: 10.224.130.173
+43NF   Server 6: 10.224.130.173
+43PB   Server 5: 10.224.130.163
+
+(4 rows affected)

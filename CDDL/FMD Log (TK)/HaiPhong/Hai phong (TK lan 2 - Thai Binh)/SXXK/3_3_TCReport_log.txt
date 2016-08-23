@@ -1,0 +1,16 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0 + 0
+SL hàng             : 0 + 0
+SL NPL tồn          : 0 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 2238 + 0
+SL hàng             : 15657 + 0
+SL NPL tồn          : 5281 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+03CD	NSX01	1683	12852	4004
+03CD	NSX03	502	2719	1232
+03CD	NSX05	2	0	0
+03CD	NSX06	51	86	45

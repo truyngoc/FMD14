@@ -1,0 +1,70 @@
+MaHQ   server                  
+------ ------------------------
+60PA   NULL                    
+02JI   NULL                    
+47NB   Server 5: 10.224.130.163
+02PG   Server 9: 10.224.130.203
+32ZZ   NULL                    
+53BC   Server 1: 10.224.130.123
+20BB02 NULL                    
+48QH   NULL                    
+43ND   Server 6: 10.224.130.173
+53BB   NULL                    
+
+(10 rows affected)
+MaHQ   server                  
+------ ------------------------
+60PA   NULL                    
+02JI   NULL                    
+53BB   NULL                    
+02PG   Server 9: 10.224.130.203
+32ZZ   NULL                    
+53BC   Server 1: 10.224.130.123
+47NB   Server 5: 10.224.130.163
+20BB02 NULL                    
+48QH   NULL                    
+43ND   Server 6: 10.224.130.173
+
+(10 rows affected)
+MaHQ   server                  
+------ ------------------------
+20BB02 NULL                    
+48QH   NULL                    
+60PA   NULL                    
+02PG   Server 9: 10.224.130.203
+32ZZ   NULL                    
+53BC   Server 1: 10.224.130.123
+47NB   Server 5: 10.224.130.163
+43ND   Server 6: 10.224.130.173
+02JI   NULL                    
+53BB   NULL                    
+
+(10 rows affected)
+MaHQ   server                  
+------ ------------------------
+43ND   Server 6: 10.224.130.173
+20BB02 NULL                    
+48QH   NULL                    
+60PA   NULL                    
+02JI   NULL                    
+02PG   Server 9: 10.224.130.203
+32ZZ   NULL                    
+53BC   Server 1: 10.224.130.123
+47NB   Server 5: 10.224.130.163
+53BB   NULL                    
+
+(10 rows affected)
+MaHQ   server                  
+------ ------------------------
+02JI   NULL                    
+02PG   Server 9: 10.224.130.203
+32ZZ   NULL                    
+53BC   Server 1: 10.224.130.123
+53BB   NULL                    
+47NB   Server 5: 10.224.130.163
+43ND   Server 6: 10.224.130.173
+20BB02 NULL                    
+48QH   NULL                    
+60PA   NULL                    
+
+(10 rows affected)

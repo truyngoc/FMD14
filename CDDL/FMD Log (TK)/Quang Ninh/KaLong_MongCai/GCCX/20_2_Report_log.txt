@@ -1,0 +1,14 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai (DToKhaiMD)          : 398
+SL tờ khai (ecsecsToKhaiMD)     : 395
+SL hàng							: 462
+SL bản ghi bảng ecsNPLTCU (GC)		: 1180
+SL bản ghi bảng ecsNPLTCU_CT (GC)	: 1180
+SL bản ghi bảng ecsCX_HUY_NPLSP_D (Chế xuất): 0
+SL NPL, SP hủy (Chế xuất)			: 0
+--============ Kết xuất dữ liệu danh mục từ ECUSTOMS_ONLINE ======================
+bat dau export tu online nao
+
+(11 rows affected)
+--============ add PK ========================

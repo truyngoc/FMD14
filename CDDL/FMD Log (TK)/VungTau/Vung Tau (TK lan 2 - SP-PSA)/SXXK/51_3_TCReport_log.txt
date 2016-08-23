@@ -1,0 +1,15 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0 + 0
+SL hàng             : 0 + 0
+SL NPL tồn          : 0 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 6 + 0
+SL hàng             : 23 + 0
+SL NPL tồn          : 4 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+51C2	NSX01	3	11	4
+51C2	NSX02	1	4	0
+51C2	XSX02	2	8	0

@@ -1,0 +1,26 @@
+MaHQ   server                  
+------ ------------------------
+45C1   Server 1: 10.224.130.123
+40DC   NULL                    
+02JI   NULL                    
+27PE   Server 2: 10.224.130.133
+60PA   NULL                    
+32KF   NULL                    
+43K1   Server 3: 10.224.130.143
+43ND   Server 6: 10.224.130.173
+47NB   Server 5: 10.224.130.163
+
+(9 rows affected)
+MaHQ   server                  
+------ ------------------------
+45C1   Server 1: 10.224.130.123
+40DC   NULL                    
+27PE   Server 2: 10.224.130.133
+60PA   NULL                    
+02JI   NULL                    
+47NB   Server 5: 10.224.130.163
+32KF   NULL                    
+43K1   Server 3: 10.224.130.143
+43ND   Server 6: 10.224.130.173
+
+(9 rows affected)

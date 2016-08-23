@@ -1,0 +1,29 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 21361
+SL hàng             : 89318
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+01PL	NGC01	10354	36352
+01PL	NGC04	138	461
+01PL	NGC13	1024	1617
+01PL	NGC17	18	18
+01PL	NGC18	222	4190
+01PL	NGC19	623	805
+01PL	NGC20	32	2306
+01PL	NGC21	12	16
+01PL	NGC99	7	24
+01PL	XGC01	8783	41995
+01PL	XGC04	54	146
+01PL	XGC13	38	829
+01PL	XGC18	52	513
+01PL	XGC19	3	3
+01PL	XGC20	1	43
+================MAX ID======================================
+MAX ID tờ khai      : 10102000021361

@@ -1,0 +1,19 @@
+delete from DToKhaiMD
+where  sotk=99999	and ma_lh='NSX03' and ma_hq='N43F' and NAMDK=2010
+
+delete from DHangMDDC
+where  sotk=99999	and ma_lh='NSX03' and ma_hq='N43F' and NAMDK=2010
+
+
+
+488	NSX03	N43K01	2009
+
+
+delete from DHANGMDDK
+where SOTK=488 and MA_LH='NSX03' and NAMDK=2009 and MA_HQ='N43K01'
+
+delete from DHangMDDC
+where SOTK=488 and MA_LH='NSX03' and NAMDK=2009 and MA_HQ='N43K01'
+
+delete from DToKhaiMD
+where SOTK=488 and MA_LH='NSX03' and NAMDK=2009 and MA_HQ='N43K01'

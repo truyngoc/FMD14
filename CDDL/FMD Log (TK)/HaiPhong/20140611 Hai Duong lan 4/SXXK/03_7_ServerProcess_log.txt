@@ -1,0 +1,12 @@
+MaHQ   server                  
+------ ------------------------
+03PA   Server 7: 10.224.130.183
+03PJ   Server 6: 10.224.130.173
+
+(2 rows affected)
+MaHQ   server                  
+------ ------------------------
+03PA   Server 7: 10.224.130.183
+03PJ   Server 6: 10.224.130.173
+
+(2 rows affected)

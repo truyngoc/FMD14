@@ -1,0 +1,20 @@
+﻿A. quy trình cho giai đoạn 1
+A.1. đối với CSDL SLXNK
+I. quy trình cho cán bộ Cục:
+1. backup dữ liệu SLXNK_Cuc
+2. Chạy 2 script kiểm tra bảng trên db SLXNK_Cuc (B1. và B2.)
+2. Chạy script tạo identity (B3.)
+3. chạy script export dữ liệu (B4. lần đầu)
+-tùy trường hợp có thông báo lỗi hay không mà chạy script xóa dữ liệu lỗi và chạy lại script report (B4.1)
+4. backup DB DanhMucGCCX, chuyển về TCHQ
+
+II. Quy trình cho cán bộ triển khai tại Tổng cục
+-1. Xác định server chứa DB đích căn cứ trên Mã hải quan
+0. Tạo DB link DANHMUC_GCCX trên server chứa DB đích, trỏ vào server tạm sẽ chứa DB DanhMucGCCX
+1. restore DB DanhMucGCCX lên server tạm
+2. Chạy script B6. Gen column trên DB DanhMucGCCX: phải sửa ID Cục
+đối chiếu report kết quả với bản in report địa phương gửi lên
+xử lý dữ liệu lỗi nếu có
+3. Chạy script B8. chuyển đổi dữ liệu trên DB đích (eCustoms_His): phải sửa id Cục (2 chỗ)
+căn cứ vào report trước và sau chuyển đổi để lập report chuyển đổi dữ liệu
+đối soát với report lập ở bước 2 để xác nhận kết quả chuyển đổi dữ liệu

@@ -1,0 +1,27 @@
+--- 1.Execution on Server 01 --- 
+
+(10418170 rows affected)
+--- 2.Execution on Server 02 --- 
+
+(4463279 rows affected)
+--- 3.Execution on Server 03 --- 
+
+(5065355 rows affected)
+--- 4.Execution on Server 04 --- 
+
+(3481382 rows affected)
+--- 5.Execution on Server 05 --- 
+
+(10906773 rows affected)
+--- 6.Execution on Server 06 --- 
+
+(15284263 rows affected)
+--- 7.Execution on Server 07 --- 
+
+(4977507 rows affected)
+--- 8.Execution on Server 08 --- 
+
+(0 rows affected)
+--- 9.Execution on Server 09 ---  
+
+(0 rows affected)

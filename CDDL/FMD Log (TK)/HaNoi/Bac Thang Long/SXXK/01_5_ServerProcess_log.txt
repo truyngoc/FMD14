@@ -1,0 +1,14 @@
+MaHQ   server                  
+------ ------------------------
+01PL   Server 3: 10.224.130.143
+32KF   NULL                    
+01NV   Server 1: 10.224.130.123
+
+(3 rows affected)
+MaHQ   server                  
+------ ------------------------
+01PL   Server 3: 10.224.130.143
+32KF   NULL                    
+01NV   Server 1: 10.224.130.123
+
+(3 rows affected)

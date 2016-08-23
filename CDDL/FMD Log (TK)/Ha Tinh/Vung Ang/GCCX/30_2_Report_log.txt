@@ -1,0 +1,20 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai (DToKhaiMD)          : 0
+SL tờ khai (ecsecsToKhaiMD)     : 0
+SL hàng							: 0
+SL bản ghi bảng ecsNPLTCU (GC)		: 0
+SL bản ghi bảng ecsNPLTCU_CT (GC)	: 0
+SL bản ghi bảng ecsCX_HUY_NPLSP_D (Chế xuất): 0
+SL NPL, SP hủy (Chế xuất)			: 0
+--============ Kết xuất dữ liệu danh mục từ ECUSTOMS_ONLINE ======================
+bat dau export tu online nao
+Msg 102, Level 15, State 1, Server ACBBANK-02, Line 2
+Incorrect syntax near ')'.
+Msg 102, Level 15, State 1, Server ACBBANK-02, Line 2
+Incorrect syntax near ')'.
+Msg 102, Level 15, State 1, Server ACBBANK-02, Line 18
+Incorrect syntax near ')'.
+--============ add PK ========================
+Msg 4902, Level 16, State 1, Server ACBBANK-02, Line 80
+Cannot find the object "DGC_HD" because it does not exist or you do not have permissions.

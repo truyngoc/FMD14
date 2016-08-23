@@ -1,0 +1,44 @@
+﻿
+:: no display command
+ECHO OFF
+:: set logfile unicode
+CHCP 65001
+
+
+set /P ServerProcess="Input No. ServerProcess: "
+
+goto server%ServerProcess%
+
+REM if "%ServerProcess%" == "1" goto server1
+
+REM if "%ServerProcess%" == "2" goto server2
+
+REM if "%ServerProcess%" == "3" goto server3
+
+
+echo Start time: %DATE% %TIME%
+
+:server1
+echo chay vao server 1
+echo chay vao server 1
+pause
+goto:eof
+
+:server2
+echo chay vao server 2
+
+sqlcmd -U sa -P asdqwe@123 -S .\sql2k8r2 -d ToKhaiSXXK  -Q "select top 10 Ma_HQ,Ma_LH,NamDK,SoTK from dtokhaimd" -b >> "Log.txt"
+echo chay vao server 2
+pause
+goto:eof
+
+:server3
+echo chay vao server 3
+echo chay vao server 3
+pause
+goto:eof
+
+echo End time: %DATE% %TIME%
+
+pause
+

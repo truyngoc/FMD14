@@ -1,0 +1,30 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 21846
+SL hàng             : 107451
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+47NB	NGC01	10768	60622
+47NB	NGC04	77	241
+47NB	NGC13	1237	4590
+47NB	NGC18	205	4202
+47NB	NGC19	52	64
+47NB	NGC20	21	2742
+47NB	NGC21	229	754
+47NB	NGC23	5	7
+47NB	XGC01	8765	30119
+47NB	XGC04	23	59
+47NB	XGC06	8	10
+47NB	XGC13	243	917
+47NB	XGC18	91	1460
+47NB	XGC19	13	17
+47NB	XGC20	5	997
+47NB	XGC21	104	650
+================MAX ID======================================
+MAX ID tờ khai      : 14700000021846

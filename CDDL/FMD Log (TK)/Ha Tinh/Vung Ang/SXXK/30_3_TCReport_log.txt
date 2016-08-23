@@ -1,0 +1,17 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0 + 0
+SL hàng             : 0 + 0
+SL NPL tồn          : 0 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 35 + 0
+SL hàng             : 186 + 0
+SL NPL tồn          : 3 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+30F1	NKD05	1	1	0
+30F1	NSX01	13	26	3
+30F1	NTA11	1	1	0
+30F1	XSX01	18	153	0
+30F1	XTA11	2	5	0

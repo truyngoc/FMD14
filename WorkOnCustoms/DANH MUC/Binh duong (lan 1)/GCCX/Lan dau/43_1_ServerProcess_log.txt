@@ -1,0 +1,5 @@
+MaHQ   server                  
+------ ------------------------
+43K2   NULL                    
+
+(1 rows affected)

@@ -1,0 +1,10 @@
+===================Báo cáo số liệu===========================
+===============SXXK====================
+SL NPL SXXK          : 143433
+SL sản phẩm SXXK     : 1157896
+SL định mức SXXK     : 10293075
+Số lượng bản ghi chi tiết định mức SXXK sai NPL hoặc SP:	311
+=========MAX ID========================================================
+MAX ID NPL SXXK           : 143433
+MAX ID SP SXXK            : 1157896
+MAX ID định mức SXXK      : 10293075

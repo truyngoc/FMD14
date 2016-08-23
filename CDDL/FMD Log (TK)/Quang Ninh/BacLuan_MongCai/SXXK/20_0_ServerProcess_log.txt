@@ -1,0 +1,12 @@
+MaHQ   server                  
+------ ------------------------
+02CK   NULL                    
+20B1   Server 2: 10.224.130.133
+
+(2 rows affected)
+MaHQ   server                  
+------ ------------------------
+02CK   NULL                    
+20B1   Server 2: 10.224.130.133
+
+(2 rows affected)

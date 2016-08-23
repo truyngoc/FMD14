@@ -1,0 +1,14 @@
+MaHQ   server                  
+------ ------------------------
+01PP   NULL                    
+18A3   Server 2: 10.224.130.133
+32KF   NULL                    
+
+(3 rows affected)
+MaHQ   server                  
+------ ------------------------
+01PP   NULL                    
+18A3   Server 2: 10.224.130.133
+32KF   NULL                    
+
+(3 rows affected)

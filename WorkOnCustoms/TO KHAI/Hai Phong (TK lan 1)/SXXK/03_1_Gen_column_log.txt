@@ -1,0 +1,19 @@
+Msg 2705, Level 16, State 4, Server ACBBANK-02, Line 1
+Column names in each table must be unique. Column name 'CDDL_MA_DVT' in table 'dbo.DHangMDTH' is specified more than once.
+==================Tờ khai - update cột ===============
+17:17:20:383 - 1. Start DToKhaiMD
+
+(85303 rows affected)
+17:17:21:590 - 2. Start join ecsToKhaiMD
+17:17:22:917 - 3. Start DHangMDTH h join DToKhaiMD
+17:17:27:200 - 4. Start DHangMDTH update VT_ID
+17:17:27:200 - 5. Start DHangMDTH update STTHang
+17:17:27:733 - 6. Start DHangMDDC update thong tin tờ khai
+17:17:40:047 - 7. Start DHangMDDC update VT_ID
+17:17:40:047 - 8. Start DHangMDDC update STTHang
+17:17:45:230 - 9. Start DHangMDDC update từ điều chỉnh chi tiết
+17:17:48:097 - 10. Start DNPLNHAP
+17:17:48:303 - 11. Start DNPLNHAP update VT_ID
+17:17:48:303 - 12. Start DNPLNHAP update thong tin từ TK
+17:17:48:640 - 13. Start DNPLNHAP update thong tin từ DHangMDTH
+17:17:48:760 - 14. Start DNPLNHAP update thong tin từ DHangMDDC

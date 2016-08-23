@@ -1,0 +1,16 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 96
+SL hàng             : 134
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+47I1	NGC01	37	74
+47I1	XGC01	59	60
+================MAX ID======================================
+MAX ID tờ khai      : 14704000000096

@@ -1,0 +1,29 @@
+===================Báo cáo số liệu===========================
+===============SXXK====================
+SL NPL SXXK          : 4667
+SL sản phẩm SXXK     : 70414
+SL định mức SXXK     : 1378092
+Số lượng bản ghi chi tiết định mức SXXK sai NPL hoặc SP:	4
+=========MAX ID========================================================
+MAX ID NPL SXXK           : 4668
+MAX ID SP SXXK            : 126105
+MAX ID định mức SXXK      : 1693715
+===============Số liệu TRƯỚC chuyển đổi====================
+===============SXXK====================================
+SL NPL SXXK          : 0
+SL sản phẩm SXXK     : 0
+SL định mức SXXK     : 0
+================MAX ID=======================================
+MAX ID NPL SXXK           : 0
+MAX ID SP SXXK            : 0
+MAX ID định mức SXXK      : 0
+--=====================SXXK - Hoàn thành đổ dữ liệu vào eCustoms======================
+===============Số liệu SAU chuyển đổi====================
+===============SXXK====================================
+SL NPL SXXK          : 4667
+SL sản phẩm SXXK     : 70414
+SL định mức SXXK     : 1378092
+================MAX ID=======================================
+MAX ID NPL SXXK           : 15400100004668
+MAX ID SP SXXK            : 15400200126105
+MAX ID định mức SXXK      : 15400501693715

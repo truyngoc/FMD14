@@ -1,0 +1,15 @@
+MaHQ   server                  
+------ ------------------------
+43K2   Server 3: 10.224.130.143
+
+(1 rows affected)
+MaHQ   server                  
+------ ------------------------
+43K2   Server 3: 10.224.130.143
+
+(1 rows affected)
+MaHQ   server                  
+------ ------------------------
+43K2   Server 3: 10.224.130.143
+
+(1 rows affected)

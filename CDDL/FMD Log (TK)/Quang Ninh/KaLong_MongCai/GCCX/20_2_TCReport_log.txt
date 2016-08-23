@@ -1,0 +1,22 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 398
+SL hàng             : 462
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+20B2	NGC01	149	152
+20B2	NGC04	16	60
+20B2	NGC18	2	3
+20B2	NGC20	1	9
+20B2	XGC01	226	226
+20B2	XGC04	2	5
+20B2	XGC13	1	1
+20B2	XGC20	1	6
+================MAX ID======================================
+MAX ID tờ khai      : 12002000000398

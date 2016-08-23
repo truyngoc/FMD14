@@ -1,0 +1,12 @@
+MaHQ   server                  
+------ ------------------------
+27NJ   Server 2: 10.224.130.133
+02QZ   NULL                    
+
+(2 rows affected)
+MaHQ   server                  
+------ ------------------------
+02QZ   NULL                    
+27NJ   Server 2: 10.224.130.133
+
+(2 rows affected)

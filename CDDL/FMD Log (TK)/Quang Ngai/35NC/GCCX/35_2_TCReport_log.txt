@@ -1,0 +1,21 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 566
+SL hàng             : 2501
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+35NC	NGC01	330	1712
+35NC	NGC04	3	3
+35NC	NGC13	89	172
+35NC	NGC18	12	190
+35NC	NGC20	1	28
+35NC	XGC01	130	369
+35NC	XGC18	1	27
+================MAX ID======================================
+MAX ID tờ khai      : 13502000000566

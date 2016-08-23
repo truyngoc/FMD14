@@ -1,0 +1,14 @@
+===================Báo cáo số liệu===========================
+===============SXXK====================
+SL NPL SXXK          : 257561
+SL sản phẩm SXXK     : 608169
+SL định mức SXXK     : 10339023
+Số lượng bản ghi chi tiết định mức SXXK sai NPL hoặc SP:	1850
+=========MAX ID========================================================
+MAX ID NPL SXXK           : 362570
+MAX ID SP SXXK            : 722286
+MAX ID định mức SXXK      : 11448256
+Msg 8115, Level 16, State 2, Server TC-DB-TQDT04, Line 8
+Arithmetic overflow error converting expression to data type int.
+Msg 8115, Level 16, State 2, Server TC-DB-TQDT04, Line 8
+Arithmetic overflow error converting expression to data type int.

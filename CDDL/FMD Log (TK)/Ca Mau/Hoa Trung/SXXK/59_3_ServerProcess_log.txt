@@ -1,0 +1,16 @@
+MaHQ   server                  
+------ ------------------------
+NULL   NULL                    
+48QH   NULL                    
+59BD   Server 1: 10.224.130.123
+59CB   Server 1: 10.224.130.123
+
+(4 rows affected)
+MaHQ   server                  
+------ ------------------------
+NULL   NULL                    
+48QH   NULL                    
+59BD   Server 1: 10.224.130.123
+59CB   Server 1: 10.224.130.123
+
+(4 rows affected)

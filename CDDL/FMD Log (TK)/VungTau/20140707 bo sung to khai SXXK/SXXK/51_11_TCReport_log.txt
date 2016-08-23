@@ -1,0 +1,4 @@
+
+Sqlcmd: Warning: The last operation was terminated because the user pressed CTRL+C.
+
+Sqlcmd: Warning: The last operation was terminated because the user pressed CTRL+C.

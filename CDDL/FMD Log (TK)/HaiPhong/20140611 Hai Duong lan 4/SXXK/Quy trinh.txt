@@ -1,0 +1,6 @@
+﻿1. Restore DB chi cục lên DB SLXNK_CC
+2. Export danh mục tu ECustoms_Online sang DB SLXNK_CC
+3. Gen column, update giá trị
+4. Report trước chuyển đổi
+5. Import dữ liệu Tờ khai, hàng
+6. Report sau chuyển đổi

@@ -1,0 +1,12 @@
+MaHQ   server                  
+------ ------------------------
+35NC   Server 1: 10.224.130.123
+61BA   Server 1: 10.224.130.123
+
+(2 rows affected)
+MaHQ   server                  
+------ ------------------------
+35NC   Server 1: 10.224.130.123
+61BA   Server 1: 10.224.130.123
+
+(2 rows affected)

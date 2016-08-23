@@ -1,0 +1,28 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 8935
+SL hàng             : 31238
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+61PA	NGC01	2159	5312
+61PA	NGC02	1	20
+61PA	NGC04	14	15
+61PA	NGC13	1398	1996
+61PA	NGC18	33	130
+61PA	NGC19	1345	3510
+61PA	NGC20	2	2
+61PA	NGC21	43	140
+61PA	NGC99	4	9
+61PA	XGC01	1421	9034
+61PA	XGC04	35	44
+61PA	XGC13	803	4708
+61PA	XGC18	38	117
+61PA	XGC19	1639	6201
+================MAX ID======================================
+MAX ID tờ khai      : 16100000008935

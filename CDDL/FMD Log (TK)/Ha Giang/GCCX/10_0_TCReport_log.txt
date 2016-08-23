@@ -1,0 +1,19 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 404
+SL hàng             : 980
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+10BI	NGC01	218	505
+10BI	NGC13	54	256
+10BI	NGC18	3	55
+10BI	XGC01	128	162
+10BI	XGC18	1	2
+================MAX ID======================================
+MAX ID tờ khai      : 11000000000404

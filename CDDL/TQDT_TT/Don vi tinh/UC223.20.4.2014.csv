@@ -1,0 +1,127 @@
+UC223	SET 	Bộ		
+UC223	DZN 	Tá		
+UC223	GRO 	Tổng trọng lượng		
+UC223	TH  	Nghìn		
+UC223	PCE 	Cái/Chiếc		
+UC223	PR  	Đôi/Cặp		
+UC223	MTR 	Mét		
+UC223	FOT 	Phút		
+UC223	YRD 	I/át		
+UC223	MTK 	Mét vuông		
+UC223	FTK 	Phút vuông		
+UC223	YDK 	I/át vuông		
+UC223	GRM 	Gam		
+UC223	GDW 	Gam (trọng lg khô)		
+UC223	GIC 	Gam (gồm container)		
+UC223	GII 	Gam (gồm bao bì)		
+UC223	GMC 	Gam (hàm lượng KL)		
+UC223	KGM 	Kilogam		
+UC223	KDW 	Kilogam (tr.lg khô)		
+UC223	KIC 	Kilogam (gồm cont.)		
+UC223	KII 	Kilogam (gồm bao bì)		
+UC223	KMC 	Kilogam (hàm lg KL)		
+UC223	TNE 	Tấn		
+UC223	MDW 	Tấn (trọng lg khô)		
+UC223	MIC 	Tấn (gồm container)		
+UC223	MII 	Tấn (gồm bao bì)		
+UC223	MMC 	Tấn (hàm lượng KL)		
+UC223	ONZ 	Ao/xơ 		
+UC223	ODW 	Ao/xơ (trọng lg khô)		
+UC223	OIC 	Ao/xơ (gồm cont.) 		
+UC223	OII 	Ao/xơ (gồm bao bì)		
+UC223	OMC 	Ao/xơ (hàm lượng KL)		
+UC223	LBR 	Pao		
+UC223	LDW 	Pao (trọng lg khô)		
+UC223	LIC 	Pao (gồm container) 		
+UC223	LII 	Pao (gồm bao bì)		
+UC223	LMC 	Pao (hàm lượng KL)		
+UC223	STN 	Tấn ngắn		
+UC223	LTN 	Tấn dài		
+UC223	DPT 	Trọng tải		
+UC223	GT  	Tổng trọng tải		
+UC223	MLT 	Mili lít		
+UC223	LTR 	Lít		
+UC223	KL  	Kilo lít		
+UC223	MTQ 	Mét khối		
+UC223	FTQ 	Phút khối		
+UC223	YDQ 	I/át khối		
+UC223	OZI 	Ao/xơ đong		
+UC223	TRO 	Troi ao/xơ		
+UC223	PTI 	Panh		
+UC223	QT  	Lít Anh		
+UC223	GLL 	Galông ruợu		
+UC223	CT  	Cara		
+UC223	LC  	Hàm luợng lactoza		
+UC223	KHW	Kilô/oắt giờ		
+UC223	ROL	Cuộn		
+UC223	UNC	Con		
+UC223	UNU	Củ		
+UC223	UNY	Cây		
+UC223	UNH	Cành		
+UC223	UNQ	Quả		
+UC223	UNN	Cuốn		
+UC223	UNV	Viên/Hạt		
+UC223	UNK	Kiện/Hộp/Bao/Gói		
+UC223	UNT	Thanh/Mảnh/Miếng		
+UC223	UNL	Lon/Can		
+UC223	UNB	Quyển/Tập		
+UC223	UNA	Chai/ Lọ/ Tuýp		
+UC223	UND	Tút		
+UC223	USD	USD		
+UC223	HLTR	Hectolit		
+UC223	BBL	Barrel		
+UC223	KUNC	1000 con		
+UC223	KPCE	1000 cái/chiếc		
+UC223	KUNQ	1000 quả		
+UC223	KROL	1000 cuộn		
+UC223	KMTR	Kilo mét (1000 mét)		
+UC223	KPR	1000 đôi/cặp		
+UC223	KSET	1000 bộ/hệ thống		
+UC223	KUNK	1000 kiện/hộp/bao		
+UC223	KMTQ	1000m3		
+UC223	STER	Ster 		
+UC223	INC	Inch		
+UC223	CEN	Cen ti mét		
+UC223	MMTR	Mili mét		
+UC223	MGRM	Mili gram		
+UC223	HMTR	100 mét		
+UC223	HUNV	100 viên/hạt		
+UC223	TAM	Tấm		
+UC223	KUNV	1000 viên		
+UC223	TUI	Túi		
+UC223	SOI	Sợi		
+UC223	KPRO	1000 sản phẩm		
+UC223	KVA	KVA		
+UC223	KMTK	1000 M2		
+UC223	KPKG	1000 gói		
+UC223	HKGM	Tạ (100kg)		
+UC223	BAN	Bản		
+UC223	PKG	Gói		
+UC223	LOT	Lô (nhiều cái)		
+UC223	CONT	CONTAINER		
+UC223	CHI	CHI		
+UC223	TO	Tờ		
+UC223	RAM	RAM		
+UC223	HGRM	100 GRAMME		
+UC223	DUNK	10 BAO		
+UC223	KPIP	1000 ống		
+UC223	DPCE	10 chiếc		
+UC223	HPCE	100 chiếc		
+UC223	BICH	Bịch		
+UC223	DMTR	10 mét		
+UC223	CUC	Cục		
+UC223	HFT	100 FT		
+UC223	BANG	Bảng		
+UC223	PIP	Ống		
+UC223	LIEU	Liều		
+UC223	CUM	Cụm		
+UC223	MM3	mm3		
+UC223	CM3	cm3		
+UC223	MM2	mm2		
+UC223	CM2	cm2		
+UC223	DM2	dm2		
+UC223	DM	dm		
+UC223	KIT	KIT		
+UC223	UNIT	UNIT		
+UC223	LBS	LBS		
+UC223	VI	Vỉ		

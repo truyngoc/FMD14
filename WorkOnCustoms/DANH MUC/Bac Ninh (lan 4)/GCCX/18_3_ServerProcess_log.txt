@@ -1,0 +1,5 @@
+MaHQ   server                  
+------ ------------------------
+18ID   Server 2: 10.224.130.133
+
+(1 rows affected)

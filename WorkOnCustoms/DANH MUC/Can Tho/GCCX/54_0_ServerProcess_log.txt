@@ -1,0 +1,7 @@
+MaHQ   server                  
+------ ------------------------
+54CD   Server 1: 10.224.130.123
+54PH   Server 1: 10.224.130.123
+54PK   Server 1: 10.224.130.123
+
+(3 rows affected)

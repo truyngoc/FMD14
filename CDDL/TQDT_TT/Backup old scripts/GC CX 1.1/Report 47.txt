@@ -1,0 +1,179 @@
+﻿B1:
+B3: 0:48
+Command(s) completed successfully.
+
+B3.1: 5:18
+
+(4517 row(s) affected)
+
+(4462 row(s) affected)
+
+(136830 row(s) affected)
+
+(246107 row(s) affected)
+
+(22168 row(s) affected)
+
+(0 row(s) affected)
+
+(2457817 row(s) affected)
+
+(55078 row(s) affected)
+
+(47512 row(s) affected)
+
+(783904 row(s) affected)
+
+(0 row(s) affected)
+
+(0 row(s) affected)
+
+B4: 4:32
+Command(s) completed successfully.
+B5: 0:09
+Số lượng hợp đồng GC
+4517
+Số lượng loại SP GC
+4462
+Số lượng NPL GC
+136817
+Số lượng SP GC
+246107
+Số lượng TB GC
+22168
+Số lượng HM GC
+0
+Số lượng BGCT định mức GC
+2457817
+SL BGCT định mức GC sai HĐ
+0
+SL BGCT định mức sai NPL hoặc SP
+1266
+CX - SL bản ghi DM hàng đưa vào
+55078
+CX - SL bản ghi DM hàng đưa ra
+47512
+CX - SL bản ghi định mức
+783904
+CX - SL bản ghi CT tờ khai
+0
+CX - SL bản ghi CT hàng
+0
+B6: 0:00
+--==================Gia công - Gen column danh m?c===============
+--==================Ch? xu?t - Gen column danh m?c===============
+
+B7: 6:50
+--=====================Gia công - update key======================
+
+(4517 row(s) affected)
+
+(136817 row(s) affected)
+
+(246107 row(s) affected)
+
+(22168 row(s) affected)
+
+(0 row(s) affected)
+
+(2457817 row(s) affected)
+
+(4462 row(s) affected)
+
+(136811 row(s) affected)
+
+(246107 row(s) affected)
+
+(22168 row(s) affected)
+
+(0 row(s) affected)
+
+(2457817 row(s) affected)
+
+(2456616 row(s) affected)
+
+(2457750 row(s) affected)
+
+(55078 row(s) affected)
+
+(47512 row(s) affected)
+
+(783904 row(s) affected)
+
+(0 row(s) affected)
+
+(783897 row(s) affected)
+
+(783904 row(s) affected)
+
+(0 row(s) affected)
+
+(0 row(s) affected)
+
+(0 row(s) affected)
+B8: 32:08
+--=====================Gia công - d? d? li?u vào eCustoms======================
+Insert From DHDGC into ECUSTOMS_01.eCustoms_His1.dbo.DGC_HD
+
+(4517 row(s) affected)
+Insert From DLOAISPGC Into ECUSTOMS_01.eCustoms_His1.dbo.DGC_LOAI_SP
+
+(4462 row(s) affected)
+Insert From DNPLHD Into ECUSTOMS_01.eCustoms_His1.dbo.DGC_SP_NPL_TB_HM
+Msg 8152, Level 16, State 14, Line 2
+String or binary data would be truncated.
+The statement has been terminated.
+Insert Into ECUSTOMS_01.eCustoms_His1.dbo.DGC_SP_NPL_TB_HM
+
+(246107 row(s) affected)
+Insert From DThietBi Into ECUSTOMS_01.eCustoms_His1.dbo.DGC_SP_NPL_TB_HM
+
+(22168 row(s) affected)
+Insert From ecsDHangMau Into ECUSTOMS_01.eCustoms_His1.dbo.DGC_SP_NPL_TB_HM
+
+(0 row(s) affected)
+Insert From DDMuc Into ECUSTOMS_01.eCustoms_His1.dbo.DGC_DINH_MUC
+
+(2457817 row(s) affected)
+--=====================Ch? xu?t - d? d? li?u vào eCustoms======================
+From [ecsCX_DM_HH_DUA_VAO_D] to [DCX_DM_HH_DUA_VAO_RA]
+
+(55078 row(s) affected)
+From [ecsCX_DM_HH_DUA_RA_D] to [DCX_DM_HH_DUA_VAO_RA]
+
+(47512 row(s) affected)
+From [ecsCX_DinhMuc] to [DCX_DINH_MUC]
+
+(783904 row(s) affected)
+From [ecsCX_CT_TOKHAI] to [DCX_CT_TOKHAI]
+
+(0 row(s) affected)
+From [ecsCX_CT_TOKHAI_HANG] to [DCX_CT_TOKHAI_HANG]
+
+(0 row(s) affected)
+B8': 0:58
+Insert From DNPLHD Into ECUSTOMS_01.eCustoms_His1.dbo.DGC_SP_NPL_TB_HM
+
+(136811 row(s) affected)
+
+B9: 0:00
+Số lượng hợp đồng GC
+4517
+Số lượng loại SP GC
+4462
+Loai_VT	Số lượng VT GC
+NPL	136811
+SP	246107
+TB	22168
+Số lượng BGCT định mức GC
+2457817
+Loai_Hang	Số lượng
+CX - HH đưa vào	55078
+CX - HH đưa ra	47512
+Số lượng bản ghi định mức CX
+783904
+Số lượng bản ghi CT tờ khai CX
+0
+Số lượng bản ghi CT hàng CX
+0
+

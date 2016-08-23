@@ -1,0 +1,18 @@
+MaHQ   server                  
+------ ------------------------
+02PG   Server 9: 10.224.130.203
+13BD   Server 1: 10.224.130.123
+32KF   NULL                    
+47D1   Server 3: 10.224.130.143
+47D3   Server 3: 10.224.130.143
+
+(5 rows affected)
+MaHQ   server                  
+------ ------------------------
+02PG   Server 9: 10.224.130.203
+13BD   Server 1: 10.224.130.123
+32KF   NULL                    
+47D1   Server 3: 10.224.130.143
+47D3   Server 3: 10.224.130.143
+
+(5 rows affected)

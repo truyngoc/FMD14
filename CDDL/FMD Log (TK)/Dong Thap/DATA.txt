@@ -1,0 +1,54 @@
+﻿===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 569
+SL hàng             : 2024
+Mã Hải quan Mã loại hình Số lượng tờ khai Số lượng dòng hàng
+49C1 NGC01 311 766
+49C1 NGC13 74 180
+49C1 NGC18 22 100
+49C1 XGC01 161 968
+49C1 XGC18 1 10
+================MAX ID======================================
+MAX ID tờ khai      : 14900000000569
+
+
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 18
+SL hàng             : 33
+Mã Hải quan Mã loại hình Số lượng tờ khai Số lượng dòng hàng
+49C2 NGC01 3 13
+49C2 XGC01 15 20
+================MAX ID======================================
+MAX ID tờ khai      : 14902000000018
+
+
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 1167 + 1
+SL hàng             : 2302 + 1
+SL NPL tồn          : 1 + 0
+Mã HQ Mã LH SL tờ khai SL dòng hàng NPL tồn
+47NB NKD01 2 2 0
+47NB NSX01 14 432 0
+47NB XGC01 1 1 0
+47NB XSX01 14 28 0
+49C1 NGC01 1 2 0
+49C1 NKD01 1 1 0
+49C1 NSX01 70 142 1
+49C1 NSX08 2 3 0
+49C1 XGC01 2 2 0
+49C1 XKD01 1 1 0
+49C1 XSX01 1059 1688 0
+60PA XGC01 1 1 0
+
+
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 1284 + 0
+SL hàng             : 1571 + 0
+SL NPL tồn          : 0 + 0
+Mã HQ Mã LH SL tờ khai SL dòng hàng NPL tồn
+02CI XSX01 7 7 0
+49C2 NSX01 148 285 0
+49C2 XSX01 1129 1279 0

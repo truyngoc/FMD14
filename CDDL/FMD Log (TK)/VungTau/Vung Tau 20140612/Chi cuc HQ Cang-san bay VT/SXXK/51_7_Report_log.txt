@@ -1,0 +1,12 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai (DToKhaiMD)          : 657
+SL hàng TH						: 152
+SL hàng	DC						: 7337
+SL hàng	DC_CT					: 7339
+SL NPL tồn                      : 1054
+--============ Kết xuất dữ liệu danh mục từ ECUSTOMS_ONLINE ======================
+bat dau export tu online nao
+
+(30410 rows affected)
+--============ add PK ========================

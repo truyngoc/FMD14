@@ -1,0 +1,22 @@
+MaHQ   server                  
+------ ------------------------
+32KF   NULL                    
+47XE   Server 7: 10.224.130.183
+02PG   Server 9: 10.224.130.203
+13BD   Server 1: 10.224.130.123
+47QN   NULL                    
+47D2   Server 3: 10.224.130.143
+47D1   Server 3: 10.224.130.143
+
+(7 rows affected)
+MaHQ   server                  
+------ ------------------------
+02PG   Server 9: 10.224.130.203
+13BD   Server 1: 10.224.130.123
+47QN   NULL                    
+32KF   NULL                    
+47XE   Server 7: 10.224.130.183
+47D2   Server 3: 10.224.130.143
+47D1   Server 3: 10.224.130.143
+
+(7 rows affected)

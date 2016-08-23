@@ -1,0 +1,15 @@
+SXXK
+- Phat sinh ma HQ '18BB01'
+	dua vao server 01
+	-> phai addconstraint cho bang danh muc cua SXXK
+
+- co ma HQ '03PA + ky tu dac biet', '03PA', '03NK'
+
+GCCX
+- co ma hai quan null
+
+
+- ma hai quan chuyen tu
+18BA01		18A1
+18BA02		18A2
+18BA03		18A3

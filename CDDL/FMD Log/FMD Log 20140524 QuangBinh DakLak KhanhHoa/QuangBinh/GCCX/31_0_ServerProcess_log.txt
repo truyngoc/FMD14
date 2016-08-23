@@ -1,0 +1,7 @@
+MaHQ   server                  
+------ ------------------------
+NULL   NULL                    
+31CD   NULL                    
+31D1   Server 1: 10.224.130.123
+
+(3 rows affected)

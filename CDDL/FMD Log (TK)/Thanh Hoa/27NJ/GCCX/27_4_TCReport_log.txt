@@ -1,0 +1,28 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 11332
+SL hàng             : 43095
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+27NJ	NCX03	4	6
+27NJ	NGC01	4603	19102
+27NJ	NGC04	35	90
+27NJ	NGC07	11	12
+27NJ	NGC13	658	1103
+27NJ	NGC18	100	1976
+27NJ	NGC20	4	37
+27NJ	NGC21	55	209
+27NJ	XGC01	5762	19686
+27NJ	XGC04	49	267
+27NJ	XGC06	3	3
+27NJ	XGC13	4	9
+27NJ	XGC18	43	574
+27NJ	XGC20	1	21
+================MAX ID======================================
+MAX ID tờ khai      : 12704000011332

@@ -1,0 +1,14 @@
+MaHQ   server                  
+------ ------------------------
+01BT   Server 1: 10.224.130.123
+01IK   Server 1: 10.224.130.123
+01PJ   Server 2: 10.224.130.133
+01PL   Server 3: 10.224.130.143
+01PM   Server 1: 10.224.130.123
+01PM01 Server 1: 10.224.130.123
+01PO   Server 3: 10.224.130.143
+01PP02 NULL                    
+01TE   Server 2: 10.224.130.133
+01TE01 Server 6: 10.224.130.173
+
+(10 rows affected)

@@ -1,0 +1,62 @@
+--- 1.Execution on Server 01 --- 
+--- 2.Execution on Server 02 --- 
+
+(4909 rows affected)
+
+(17236 rows affected)
+--- 3.Execution on Server 03 --- 
+
+(12043 rows affected)
+Msg 2627, Level 14, State 1, Server TQDT-HIS-DB01, Line 1
+Violation of PRIMARY KEY constraint 'PK_DNPLNHAP_TL'. Cannot insert duplicate key in object 'dbo.DSX_NPL_NHAP_TL'. The duplicate key value is (14709000018518, 14709000018518, 14702100135593, 22111.800000, 47D1).
+The statement has been terminated.
+--- 4.Execution on Server 04 --- 
+
+(6401 rows affected)
+
+(0 rows affected)
+--- 5.Execution on Server 05 --- 
+Msg 2627, Level 14, State 1, Server TQDT-HIS-DB03, Line 1
+Violation of PRIMARY KEY constraint 'PK_DNPLNHAP_TL'. Cannot insert duplicate key in object 'dbo.DSX_NPL_NHAP_TL'. The duplicate key value is (14707000012650, 14707000012650, 14702100022472, 99710.640000, 47NF).
+The statement has been terminated.
+--- 6.Execution on Server 06 --- 
+
+(15034 rows affected)
+Msg 2627, Level 14, State 1, Server TQDT-HIS-DB04, Line 1
+Violation of PRIMARY KEY constraint 'PK_DNPLNHAP_TL'. Cannot insert duplicate key in object 'dbo.DSX_NPL_NHAP_TL'. The duplicate key value is (14311000324998, 14311000324998, 14303100137555, 202.000000, 43NF).
+The statement has been terminated.
+--- 7.Execution on Server 07 --- 
+Msg 2627, Level 14, State 1, Server TQDT-HIS-DB05, Line 1
+Violation of PRIMARY KEY constraint 'PK_DNPLNHAP_TL'. Cannot insert duplicate key in object 'dbo.DSX_NPL_NHAP_TL'. The duplicate key value is (10301000010823, 10301000010823, 10300100060324, 2734.680000, 03PA).
+The statement has been terminated.
+--- 8.Execution on Server 08 --- 
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+--- 9.Execution on Server 09 ---  
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+--- 10.Execution on Server 10 ---  
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)

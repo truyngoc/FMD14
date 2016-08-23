@@ -1,0 +1,10 @@
+MaHQ   server                  
+------ ------------------------
+47NB   Server 5: 10.224.130.163
+
+(1 rows affected)
+MaHQ   server                  
+------ ------------------------
+47NB   Server 5: 10.224.130.163
+
+(1 rows affected)

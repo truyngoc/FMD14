@@ -1,0 +1,28 @@
+select n.VT_ID,n.MA_HQ,n.MA_VAT_TU,n.MA_DV,n.LOAI
+	,h.VT_ID,h.Ma_HQ,h.Ma_Vat_Tu,h.Ma_DV,h.Loai_Hang
+from vDHANG_MD h
+	join vDSX_SP_NPL n 	on 
+		h.Ma_HQ = n.MA_HQ 
+		and h.Ma_Vat_Tu = n.MA_VAT_TU 
+		and h.Ma_DV = n.MA_DV
+		and h.Loai_Hang = n.LOAI
+where n.VT_ID <> h.VT_ID
+
+
+
+
+
+-- trim ma_dv
+update vDSX_SP_NPL
+set MA_DV = RTRIM(MA_DV)
+-- update VT_ID cua bang hang
+update h
+set h.VT_ID = n.VT_ID
+from vDHANG_MD h
+	join vDSX_SP_NPL n 	on 
+		h.Ma_HQ = n.MA_HQ 
+		and h.Ma_Vat_Tu = n.MA_VAT_TU 
+		and h.Ma_DV = n.MA_DV
+		and h.Loai_Hang = n.LOAI
+where n.VT_ID <> h.VT_ID
+	and TK_ID >= 10000000000000 and TK_ID < 20000000000000

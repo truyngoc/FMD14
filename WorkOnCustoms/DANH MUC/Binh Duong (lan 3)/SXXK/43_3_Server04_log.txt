@@ -1,0 +1,8 @@
+--- 1.1.Check LinkServer on Server 04 --- 
+--- 1.2.Sync SXXK category data on Server 04 --- 
+--=====================SXXK - đổ dữ liệu vào eCustoms======================
+Insert From SNPL Into DSX_SP_NPL
+
+(7790 rows affected)
+Insert From SSP Into DSX_SP_NPL
+Insert From DDINHMUC Into DSX_DINH_MUC

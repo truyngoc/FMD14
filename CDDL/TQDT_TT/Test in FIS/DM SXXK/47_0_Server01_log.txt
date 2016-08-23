@@ -1,0 +1,10 @@
+--- 1.1.Check LinkServer on Server 01 --- 
+--- 1.2.Sync SXXK category data on Server 01 --- 
+--=====================SXXK - đổ dữ liệu vào eCustoms======================
+Insert From SNPL Into DSX_SP_NPL
+
+(143433 rows affected)
+Insert From SSP Into DSX_SP_NPL
+Insert From DDINHMUC Into DSX_DINH_MUC
+Msg 1105, Level 17, State 2, Server B2BVAN-SVR, Line 78
+Could not allocate space for object 'dbo.DSX_DINH_MUC'.'PK_DDINHMUC' in database 'eCustoms_His1' because the 'PRIMARY' filegroup is full. Create disk space by deleting unneeded files, dropping objects in the filegroup, adding additional files to the filegroup, or setting autogrowth on for existing files in the filegroup.

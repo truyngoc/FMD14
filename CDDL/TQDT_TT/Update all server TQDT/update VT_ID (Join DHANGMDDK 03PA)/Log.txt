@@ -1,0 +1,46 @@
+--- 1.Execution on Server 01 --- 
+
+(0 rows affected)
+--- 2.Execution on Server 02 --- 
+
+(29 rows affected)
+--- 3.Execution on Server 03 --- 
+
+(0 rows affected)
+--- 4.Execution on Server 04 --- 
+
+(0 rows affected)
+--- 5.Execution on Server 05 --- 
+
+(0 rows affected)
+--- 6.Execution on Server 06 --- 
+
+(0 rows affected)
+--- 8.Execution on Server 08 --- 
+
+(0 rows affected)
+--- 9.Execution on Server 09 ---  
+
+(0 rows affected)
+--- 10.Execution on Server 10 ---  
+
+(0 rows affected)
+--- 7.Execution on Server 07 --- 
+
+(75568 rows affected)
+Msg 515, Level 16, State 2, Server TQDT-HIS-DB05, Line 33
+Cannot insert the value NULL into column 'TS_XNK', table 'ECUSTOMS_HIS.dbo.DSX_NPL_NHAP'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+Msg 515, Level 16, State 2, Server TQDT-HIS-DB05, Line 44
+Cannot insert the value NULL into column 'TS_XNK', table 'ECUSTOMS_HIS.dbo.DSX_NPL_NHAP_TL'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+--- 7.Execution on Server 07 --- 
+Msg 515, Level 16, State 2, Server TQDT-HIS-DB05, Line 33
+Cannot insert the value NULL into column 'DGIA_TT', table 'ECUSTOMS_HIS.dbo.DSX_NPL_NHAP'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+Msg 515, Level 16, State 2, Server TQDT-HIS-DB05, Line 44
+Cannot insert the value NULL into column 'DGIA_TT', table 'ECUSTOMS_HIS.dbo.DSX_NPL_NHAP_TL'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+--- 7.Execution on Server 07 --- 
+
+(12569 rows affected)

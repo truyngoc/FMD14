@@ -1,0 +1,30 @@
+===============Số liệu SAU chuyển đổi====================
+===============Gia công==================================
+SL hợp đồng GC          : 1375
+SL loại sản phẩm GC     : 1652
+SL NPL GC               : 78087
+SL SP GC                : 617347
+SL thiết bị GC          : 10530
+SL hàng mẫu GC          : 2
+SL chi tiết định mức GC : 10202140
+===============Chế xuất==================================
+SL danh mục đưa hàng VÀO: 41887
+SL danh mục đưa hàng RA : 53784
+SL bản ghi định mức CX  : 674159
+SL bản ghi CT tờ khai   : 0
+SL bản ghi CT hàng      : 0
+=========MAX ID======================================================
+=========Gia công====================================================
+MAX ID hợp đồng GC      : 14303000002438
+MAX ID loại SP GC       : N/A
+MAX ID NPL GC           : 14303100147937
+MAX ID SP GC            : 14303200880297
+MAX ID thiết bị GC      : 14303300013495
+MAX ID hàng mẫu GC      : 14303400000002
+MAX ID định mức GC      : 14303513885627
+=========Ch? xu?t====================================================
+MAX ID hàng đưa VÀO     : 14303600073241
+MAX ID hàng đưa RA      : 14303700076231
+MAX ID Định mức CX      : 14303500853154
+MAX ID CT Tờ khai       : 0
+MAX ID CT hàng          : 0

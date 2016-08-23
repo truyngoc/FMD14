@@ -1,0 +1,4 @@
+--- 1.1.Check LinkServer on Server 03 --- 
+--- 1.2.Sync SXXK category data on Server 03 --- 
+
+(445033 rows affected)

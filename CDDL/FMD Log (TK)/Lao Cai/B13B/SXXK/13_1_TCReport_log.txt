@@ -1,0 +1,31 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0 + 0
+SL hàng             : 0 + 0
+SL NPL tồn          : 0 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 407 + 12
+SL hàng             : 852 + 12
+SL NPL tồn          : 22 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+01PJ	XSX01	1	1	0
+01PL	XSX01	1	1	0
+02PJ	XSX01	1	1	0
+03PA	XKD01	14	14	0
+03PA	XSX01	5	5	0
+03TG	XKD01	1	1	0
+13BB	NKD01	6	6	0
+13BB	NSX01	244	249	22
+13BB	XSX01	101	109	0
+13G1	XSX01	1	1	0
+32KF	XSX01	9	9	0
+37PB	XSX01	1	1	0
+43PB	XSX01	1	1	0
+47NB	NKD01	2	2	0
+47NB	NSX01	14	432	0
+47NB	XGC01	1	1	0
+47NB	XSX01	14	28	0
+47PY	XSX01	1	1	0
+60PA	XGC01	1	1	0

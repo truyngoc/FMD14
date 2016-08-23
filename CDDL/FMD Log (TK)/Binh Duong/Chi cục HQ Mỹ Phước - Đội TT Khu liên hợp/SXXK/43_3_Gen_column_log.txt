@@ -1,0 +1,17 @@
+==================Tờ khai - update cột ===============
+16:38:51:950 - 1. Start DToKhaiMD
+
+(20613 rows affected)
+16:38:53:690 - 2. Start join ecsToKhaiMD
+16:38:55:360 - 3. Start DHangMDTH h join DToKhaiMD
+16:38:59:337 - 4. Start DHangMDTH update VT_ID
+16:38:59:337 - 5. Start DHangMDTH update STTHang
+16:38:59:977 - 6. Start DHangMDDC update thong tin tờ khai
+16:39:03:927 - 7. Start DHangMDDC update VT_ID
+16:39:03:927 - 8. Start DHangMDDC update STTHang
+16:39:04:620 - 9. Start DHangMDDC update từ điều chỉnh chi tiết
+16:39:05:520 - 10. Start DNPLNHAP
+16:39:05:837 - 11. Start DNPLNHAP update VT_ID
+16:39:05:837 - 12. Start DNPLNHAP update thong tin từ TK
+16:39:06:390 - 13. Start DNPLNHAP update thong tin từ DHangMDTH
+16:39:06:637 - 14. Start DNPLNHAP update thong tin từ DHangMDDC

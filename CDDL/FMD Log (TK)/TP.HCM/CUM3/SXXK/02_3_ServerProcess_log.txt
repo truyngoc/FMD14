@@ -1,0 +1,20 @@
+MaHQ   server                  
+------ ------------------------
+02F1   Server 3: 10.224.130.143
+02F2   Server 3: 10.224.130.143
+02F3   Server 4: 10.224.130.153
+02XE   Server 7: 10.224.130.183
+47NB   Server 5: 10.224.130.163
+60PA   NULL                    
+
+(6 rows affected)
+MaHQ   server                  
+------ ------------------------
+02F1   Server 3: 10.224.130.143
+02F2   Server 3: 10.224.130.143
+02F3   Server 4: 10.224.130.153
+02XE   Server 7: 10.224.130.183
+47NB   Server 5: 10.224.130.163
+60PA   NULL                    
+
+(6 rows affected)

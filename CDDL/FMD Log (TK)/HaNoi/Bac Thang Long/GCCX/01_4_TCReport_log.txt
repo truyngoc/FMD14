@@ -1,0 +1,29 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 4504
+SL hàng             : 80621
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+01NV	NCX01	3	3
+01NV	NGC01	1580	61944
+01NV	NGC04	460	1697
+01NV	NGC11	10	19
+01NV	NGC13	80	772
+01NV	NGC17	1	1
+01NV	NGC18	13	1743
+01NV	NGC20	4	1512
+01NV	NGC21	351	695
+01NV	XCX01	62	404
+01NV	XCX04	353	4683
+01NV	XGC01	1393	6154
+01NV	XGC04	136	796
+01NV	XGC06	33	156
+01NV	XGC13	25	42
+================MAX ID======================================
+MAX ID tờ khai      : 10104000004504

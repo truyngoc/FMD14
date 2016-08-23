@@ -1,0 +1,14 @@
+--- 1.1.Check LinkServer on Server 01 --- 
+--- 1.2.Sync GCCX category data on Server 01 --- 
+
+(5160 rows affected)
+Msg 2627, Level 14, State 1, Server TQDT-TT25, Line 510
+Violation of PRIMARY KEY constraint 'PK_DGC_NPL_TCU'. Cannot insert duplicate key in object 'dbo.DGC_NPL_TCU'. The duplicate key value is (13700000000304, 0, 37TC).
+The statement has been terminated.
+Msg 547, Level 16, State 1, Server TQDT-TT25, Line 541
+The INSERT statement conflicted with the FOREIGN KEY constraint "FK_DGC_NPL_TCU_D_DGC_NPL_TCU". The conflict occurred in database "ECUSTOMS_HIS", table "dbo.DGC_NPL_TCU".
+The statement has been terminated.
+--- 1.1.Check LinkServer on Server 01 --- 
+--- 1.2.Sync GCCX category data on Server 01 --- 
+
+(5160 rows affected)

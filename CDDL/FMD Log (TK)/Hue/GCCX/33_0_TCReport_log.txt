@@ -1,0 +1,25 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 3535
+SL hàng             : 13125
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+33PD	NCX01	1	7
+33PD	NGC01	1851	6931
+33PD	NGC04	3	38
+33PD	NGC13	210	340
+33PD	NGC18	17	174
+33PD	NGC19	20	20
+33PD	NGC21	26	28
+33PD	NGC99	2	2
+33PD	XGC01	1397	5496
+33PD	XGC04	5	45
+33PD	XGC18	3	44
+================MAX ID======================================
+MAX ID tờ khai      : 13300000003535

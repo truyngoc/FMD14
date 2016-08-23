@@ -1,0 +1,60 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Gia công====================================
+SL hợp đồng GC          : 0
+SL loại sản phẩm GC     : 0
+SL NPL GC               : 0
+SL SP GC                : 0
+SL thiết bị GC          : 0
+SL hàng mẫu GC          : 0
+SL chi tiết định mức GC : 0
+===============Chế xuất====================
+SL danh mục đưa hàng VÀO: 0
+SL danh mục đưa hàng RA : 0
+SL bản ghi định mức CX  : 0
+SL bản ghi CT tờ khai   : 0
+SL bản ghi CT hàng      : 0
+=========MAX ID======================================================
+=========Gia công====================================================
+MAX ID hợp đồng GC      : 0
+MAX ID loại SP GC       : N/A
+MAX ID NPL GC           : 0
+MAX ID SP GC            : 0
+MAX ID thiết bị GC      : 0
+MAX ID hàng mẫu GC      : 0
+MAX ID định mức GC      : 0
+=========Ch? xu?t====================================================
+MAX ID hàng đưa VÀO     : 0
+MAX ID hàng đưa RA      : 0
+MAX ID Định mức CX      : 0
+MAX ID CT Tờ khai       : 0
+MAX ID CT hàng          : 0
+===============Số liệu SAU chuyển đổi====================
+===============Gia công==================================
+SL hợp đồng GC          : 585
+SL loại sản phẩm GC     : 645
+SL NPL GC               : 11765
+SL SP GC                : 9583
+SL thiết bị GC          : 43
+SL hàng mẫu GC          : 0
+SL chi tiết định mức GC : 70884
+===============Chế xuất==================================
+SL danh mục đưa hàng VÀO: 0
+SL danh mục đưa hàng RA : 0
+SL bản ghi định mức CX  : 0
+SL bản ghi CT tờ khai   : 0
+SL bản ghi CT hàng      : 0
+=========MAX ID======================================================
+=========Gia công====================================================
+MAX ID hợp đồng GC      : 13300000000585
+MAX ID loại SP GC       : N/A
+MAX ID NPL GC           : 13300100011765
+MAX ID SP GC            : 13300200009583
+MAX ID thiết bị GC      : 13300300000043
+MAX ID hàng mẫu GC      : 0
+MAX ID định mức GC      : 13300500070884
+=========Ch? xu?t====================================================
+MAX ID hàng đưa VÀO     : 0
+MAX ID hàng đưa RA      : 0
+MAX ID Định mức CX      : 0
+MAX ID CT Tờ khai       : 0
+MAX ID CT hàng          : 0

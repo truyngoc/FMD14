@@ -1,0 +1,16 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0 + 0
+SL hàng             : 0 + 0
+SL NPL tồn          : 0 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 3828 + 0
+SL hàng             : 36662 + 0
+SL NPL tồn          : 72 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+41PE	NSX01	3602	35100	72
+41PE	NSX06	196	1347	0
+41PE	XSX01	16	21	0
+41PE	XSX06	14	194	0

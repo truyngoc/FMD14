@@ -1,0 +1,4 @@
+gia công: những tờ khai thuộc hợp đồng chưa thanh khoản		'_GC%'
+sxxk: những tờ khai đang thanh khoản dở, hoặc chưa thanh khoản 	'_SX%'
+cx: all in '_CX%'
+kd: ko đổ

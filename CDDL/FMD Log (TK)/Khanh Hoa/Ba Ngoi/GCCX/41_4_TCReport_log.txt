@@ -1,0 +1,16 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 86
+SL hàng             : 335
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+41CC	NGC01	37	84
+41CC	XGC01	49	251
+================MAX ID======================================
+MAX ID tờ khai      : 14104000000086

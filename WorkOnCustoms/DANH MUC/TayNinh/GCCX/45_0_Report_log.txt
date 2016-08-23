@@ -1,0 +1,36 @@
+===================Báo cáo số liệu===========================
+===============Gia công====================
+SL hợp đồng GC          : 714
+SL loại sản phẩm GC     : 723
+SL NPL GC               : 22497
+SL SP GC                : 160591
+SL thiết bị GC          : 2637
+SL hàng mẫu GC          : 0
+SL chi tiết định mức GC : 1460352
+SL NPL gia công sai hợp đồng                         : 0
+SL SP gia công sai hợp đồng                          : 0
+SL thiết bị gia công sai hợp đồng                    : 0
+SL hàng mẫu gia công sai hợp đồng                    : 0
+SL bản ghi chi tiết định mức gia công sai hợp đồng   : 0
+SL bản ghi chi tiết định mức gia công sai NPL hoặc SP: 831
+--================Chế xuất - Số tổng==========================
+SL danh mục đưa hàng VÀO: 5644
+SL danh mục đưa hàng RA : 5766
+SL bản ghi định mức CX  : 77861
+SL bản ghi CT tờ khai   : 77
+SL bản ghi CT hàng      : 122
+=========MAX ID======================================================
+=========Gia công====================================================
+MAX ID hợp đồng GC      : 917
+MAX ID loại SP GC       : 979
+MAX ID NPL GC           : 27391
+MAX ID SP GC            : 187001
+MAX ID thiết bị GC      : 4543
+MAX ID hàng mẫu GC      : 0
+MAX ID định mức GC      : 1709414
+=========Chế xuất====================================================
+MAX ID hàng đưa VÀO     : 9120
+MAX ID hàng đưa RA      : 12298
+MAX ID Định mức CX      : 128083
+MAX ID CT Tờ khai       : 121
+MAX ID CT hàng          : 177

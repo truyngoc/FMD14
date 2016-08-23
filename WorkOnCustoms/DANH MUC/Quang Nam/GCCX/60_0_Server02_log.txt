@@ -1,0 +1,40 @@
+--- 1.1.Check LinkServer on Server 02 --- 
+--- 1.2.Sync GCCX category data on Server 02 --- 
+--=====================Gia công - d? d? li?u vào eCustoms======================
+Insert From DHDGC into DGC_HD
+
+(0 rows affected)
+Insert From DLOAISPGC Into DGC_LOAI_SP
+
+(0 rows affected)
+Insert From DNPLHD Into DGC_SP_NPL_TB_HM
+
+(0 rows affected)
+Insert Into DGC_SP_NPL_TB_HM
+
+(0 rows affected)
+Insert From DThietBi Into DGC_SP_NPL_TB_HM
+
+(0 rows affected)
+Insert From ecsDHangMau Into DGC_SP_NPL_TB_HM
+
+(0 rows affected)
+Insert From DDMuc Into DGC_DINH_MUC
+
+(0 rows affected)
+--=====================Chế xuất - đổ dữ liệu vào eCustoms======================
+From [ecsCX_DM_HH_DUA_VAO_D] to [DCX_DM_HH_DUA_VAO_RA]
+
+(0 rows affected)
+From [ecsCX_DM_HH_DUA_RA_D] to [DCX_DM_HH_DUA_VAO_RA]
+
+(0 rows affected)
+From [ecsCX_DinhMuc] to [DCX_DINH_MUC]
+
+(0 rows affected)
+From [ecsCX_CT_TOKHAI] to [DCX_CT_TOKHAI]
+
+(0 rows affected)
+From [ecsCX_CT_TOKHAI_HANG] to [DCX_CT_TOKHAI_HANG]
+
+(0 rows affected)

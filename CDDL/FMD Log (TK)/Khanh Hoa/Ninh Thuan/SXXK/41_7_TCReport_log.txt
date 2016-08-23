@@ -1,0 +1,14 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0 + 0
+SL hàng             : 0 + 0
+SL NPL tồn          : 0 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 9 + 0
+SL hàng             : 10 + 0
+SL NPL tồn          : 2 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+41BH	NSX01	5	6	2
+41BH	XSX01	4	4	0

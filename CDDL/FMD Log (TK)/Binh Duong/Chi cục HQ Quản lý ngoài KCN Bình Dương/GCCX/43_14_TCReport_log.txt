@@ -1,0 +1,127 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 40092
+SL hàng             : 303334
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+43PB	NGC01	352	1169
+43PB	NGC02	10473	22764
+43PB	NGC04	4	6
+43PB	NGC13	3706	5007
+43PB	NGC18	105	2010
+43PB	NGC19	3449	4463
+43PB	NGC20	10	48
+43PB	NGC21	3	3
+43PB	NGC99	1	19
+43PB	XGC01	314	2863
+43PB	XGC02	19438	242177
+43PB	XGC04	23	50
+43PB	XGC13	416	5888
+43PB	XGC18	23	158
+43PB	XGC19	1773	16688
+43PB	XGC20	1	2
+43PB	XGC21	1	19
+================MAX ID======================================
+MAX ID tờ khai      : 14314000040092
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 40092
+SL hàng             : 303334
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+43PB	NGC01	352	1169
+43PB	NGC02	10473	22764
+43PB	NGC04	4	6
+43PB	NGC13	3706	5007
+43PB	NGC18	105	2010
+43PB	NGC19	3449	4463
+43PB	NGC20	10	48
+43PB	NGC21	3	3
+43PB	NGC99	1	19
+43PB	XGC01	314	2863
+43PB	XGC02	19438	242177
+43PB	XGC04	23	50
+43PB	XGC13	416	5888
+43PB	XGC18	23	158
+43PB	XGC19	1773	16688
+43PB	XGC20	1	2
+43PB	XGC21	1	19
+================MAX ID======================================
+MAX ID tờ khai      : 14314000040092
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 40092
+SL hàng             : 303334
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+43PB	NGC01	352	1169
+43PB	NGC02	10473	22764
+43PB	NGC04	4	6
+43PB	NGC13	3706	5007
+43PB	NGC18	105	2010
+43PB	NGC19	3449	4463
+43PB	NGC20	10	48
+43PB	NGC21	3	3
+43PB	NGC99	1	19
+43PB	XGC01	314	2863
+43PB	XGC02	19438	242177
+43PB	XGC04	23	50
+43PB	XGC13	416	5888
+43PB	XGC18	23	158
+43PB	XGC19	1773	16688
+43PB	XGC20	1	2
+43PB	XGC21	1	19
+================MAX ID======================================
+MAX ID tờ khai      : 14314000040092
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 40092
+SL hàng             : 303334
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+43PB	NGC01	352	1169
+43PB	NGC02	10473	22764
+43PB	NGC04	4	6
+43PB	NGC13	3706	5007
+43PB	NGC18	105	2010
+43PB	NGC19	3449	4463
+43PB	NGC20	10	48
+43PB	NGC21	3	3
+43PB	NGC99	1	19
+43PB	XGC01	314	2863
+43PB	XGC02	19438	242177
+43PB	XGC04	23	50
+43PB	XGC13	416	5888
+43PB	XGC18	23	158
+43PB	XGC19	1773	16688
+43PB	XGC20	1	2
+43PB	XGC21	1	19
+================MAX ID======================================
+MAX ID tờ khai      : 14314000040092
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 40092
+SL hàng             : 303334
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+43PB	NGC01	352	1169
+43PB	NGC02	10473	22764
+43PB	NGC04	4	6
+43PB	NGC13	3706	5007
+43PB	NGC18	105	2010
+43PB	NGC19	3449	4463
+43PB	NGC20	10	48
+43PB	NGC21	3	3
+43PB	NGC99	1	19
+43PB	XGC01	314	2863
+43PB	XGC02	19438	242177
+43PB	XGC04	23	50
+43PB	XGC13	416	5888
+43PB	XGC18	23	158
+43PB	XGC19	1773	16688
+43PB	XGC20	1	2
+43PB	XGC21	1	19
+================MAX ID======================================
+MAX ID tờ khai      : 14314000040092

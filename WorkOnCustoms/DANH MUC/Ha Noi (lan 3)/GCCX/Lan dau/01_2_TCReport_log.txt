@@ -1,0 +1,4 @@
+Msg 8115, Level 16, State 2, Server TC-DB-TQDT04, Line 13
+Arithmetic overflow error converting expression to data type int.
+Msg 8115, Level 16, State 2, Server TC-DB-TQDT04, Line 13
+Arithmetic overflow error converting expression to data type int.

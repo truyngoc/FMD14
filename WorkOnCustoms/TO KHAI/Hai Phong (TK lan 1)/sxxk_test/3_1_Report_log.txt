@@ -1,0 +1,9 @@
+--============ Kết xuất dữ liệu danh mục từ ECUSTOMS_ONLINE ======================
+bat dau export tu online nao
+
+(560688 rows affected)
+--============ add PK ========================
+Msg 2714, Level 16, State 4, Server ACBBANK-02, Line 36
+There is already an object named 'PK_DSX_SP_NPL' in the database.
+Msg 1750, Level 16, State 1, Server ACBBANK-02, Line 36
+Could not create constraint. See previous errors.

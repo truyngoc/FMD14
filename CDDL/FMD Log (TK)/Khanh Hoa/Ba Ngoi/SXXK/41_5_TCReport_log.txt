@@ -1,0 +1,21 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0 + 0
+SL hàng             : 0 + 0
+SL NPL tồn          : 0 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 576 + 0
+SL hàng             : 1937 + 0
+SL NPL tồn          : 345 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+41CC	NGC01	1	1	0
+41CC	NKD01	1	1	0
+41CC	NKD19	2	5	0
+41CC	NSX01	358	1181	345
+41CC	NSX08	6	23	0
+41CC	NTA19	1	14	0
+41CC	XKD01	19	44	0
+41CC	XSX01	180	635	0
+41CC	XSX05	8	33	0

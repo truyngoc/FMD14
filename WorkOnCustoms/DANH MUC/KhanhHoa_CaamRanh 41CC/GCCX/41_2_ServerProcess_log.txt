@@ -1,0 +1,5 @@
+MaHQ   server                  
+------ ------------------------
+41CC   Server 1: 10.224.130.123
+
+(1 rows affected)

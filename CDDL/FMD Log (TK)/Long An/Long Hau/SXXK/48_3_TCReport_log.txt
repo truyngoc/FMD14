@@ -1,0 +1,30 @@
+﻿===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0 + 0
+SL hàng             : 0 + 0
+SL NPL tồn          : 0 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 1250 + 1
+SL hàng             : 22509 + 1
+SL NPL tồn          : 7484 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+32KF	XSX01	1	1	0
+48F1	NGC01	2	2	0
+48F1	NKD01	2	4	0
+48F1	NKD05	4	7	1
+48F1	NSX01	382	11095	4552
+48F1	NSX03	119	3962	1758
+48F1	NSX04	28	124	59
+48F1	NSX05	1	1	0
+48F1	NSX06	76	2353	997
+48F1	NSX07	1	174	117
+48F1	NSX08	1	1	0
+48F1	XGC01	4	17	0
+48F1	XSX01	522	2676	0
+48F1	XSX03	64	1567	0
+48F1	XSX05	7	85	0
+48F1	XSX06	21	252	0
+48F1	XSX07	2	73	0
+48F1	XSX08	14	116	0

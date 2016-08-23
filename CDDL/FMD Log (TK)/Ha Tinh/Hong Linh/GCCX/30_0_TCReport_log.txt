@@ -1,0 +1,18 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 107
+SL hàng             : 1437
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+30BE	NGC01	52	1187
+30BE	NGC13	2	4
+30BE	NGC18	1	20
+30BE	XGC01	52	226
+================MAX ID======================================
+MAX ID tờ khai      : 13000000000107

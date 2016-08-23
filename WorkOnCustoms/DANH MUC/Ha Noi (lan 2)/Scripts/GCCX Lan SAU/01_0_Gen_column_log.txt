@@ -1,0 +1,9 @@
+Msg 2705, Level 16, State 4, Server ACBBANK-02, Line 3
+Column names in each table must be unique. Column name 'CDDL_Ma_DVT_NPL' in table 'dbo.DDMuc' is specified more than once.
+END=================Chế xuất - Gen column danh mục===============
+--=====================Gia công - update key======================
+
+(7504 rows affected)
+END====================Gia công - update key======================
+--=====================Chế xuất - Update key====================
+END====================Chế xuất - Update key====================

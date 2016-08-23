@@ -1,0 +1,21 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 912
+SL hàng             : 5358
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+54CD	NGC01	472	1854
+54CD	NGC04	3	6
+54CD	NGC13	50	161
+54CD	NGC18	12	155
+54CD	NGC20	2	6
+54CD	XGC01	372	3175
+54CD	XGC04	1	1
+================MAX ID======================================
+MAX ID tờ khai      : 15400000000912

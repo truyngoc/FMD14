@@ -1,0 +1,28 @@
+Changed database context to 'ToKhaiSXXK'.
+
+(0 rows affected)
+
+(36 rows affected)
+==================Tờ khai - update cột ===============
+11:35:02:770 - 1. Start DToKhaiMD
+
+(649 rows affected)
+11:35:03:527 - 2. Start join ecsToKhaiMD
+11:35:03:663 - 3. Start DHangMDTH h join DToKhaiMD
+11:35:04:483 - 4. Start DHangMDTH update VT_ID
+11:35:04:483 - 5. Start DHangMDTH update STTHang
+11:35:04:600 - 6. Start DHangMDDC update thong tin tờ khai
+11:35:04:833 - 7. Start DHangMDDC update VT_ID
+11:35:04:833 - 8. Start DHangMDDC update STTHang
+11:35:04:877 - 9. Start DHangMDDC update từ điều chỉnh chi tiết
+11:35:05:173 - 10. Start DNPLNHAP
+11:35:05:197 - 11. Start DNPLNHAP update VT_ID
+11:35:05:197 - 12. Start DNPLNHAP update thong tin từ TK
+11:35:05:217 - 13. Start DNPLNHAP update thong tin từ DHangMDTH
+11:35:05:303 - 14. Start DNPLNHAP update thong tin từ DHangMDDC
+
+(81 rows affected)
+
+(0 rows affected)
+
+(81 rows affected)

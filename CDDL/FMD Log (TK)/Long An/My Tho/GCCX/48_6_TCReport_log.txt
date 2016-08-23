@@ -1,0 +1,36 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0
+SL hàng             : 0
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+================MAX ID======================================
+MAX ID tờ khai      : 0
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 26603
+SL hàng             : 521646
+Mã Hải quan	Mã loại hình	Số lượng tờ khai	Số lượng dòng hàng
+48CG	NCX01	8560	365705
+48CG	NCX02	278	870
+48CG	NCX03	1713	15305
+48CG	NCX04	299	705
+48CG	NCX05	13	33
+48CG	NGC01	2402	7986
+48CG	NGC04	39	85
+48CG	NGC13	1030	1612
+48CG	NGC17	1	3
+48CG	NGC18	42	638
+48CG	NGC19	521	577
+48CG	NGC20	6	307
+48CG	NGC21	9	13
+48CG	XCX01	9685	118966
+48CG	XCX02	2	6
+48CG	XCX04	97	268
+48CG	XCX05	217	606
+48CG	XGC01	1539	7667
+48CG	XGC13	84	170
+48CG	XGC18	12	14
+48CG	XGC19	33	52
+48CG	XGC21	21	58
+================MAX ID======================================
+MAX ID tờ khai      : 14806000026603

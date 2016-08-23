@@ -1,0 +1,19 @@
+===============Số liệu TRƯỚC chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 0 + 0
+SL hàng             : 0 + 0
+SL NPL tồn          : 0 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+===============Số liệu SAU chuyển đổi====================
+===============Số lượng bản ghi============================
+SL tờ khai          : 713 + 0
+SL hàng             : 1375 + 0
+SL NPL tồn          : 204 + 0
+Mã HQ	Mã LH	SL tờ khai	SL dòng hàng	NPL tồn
+35NC	NGC20	1	0	0
+35NC	NSX01	307	653	190
+35NC	NSX06	18	25	14
+35NC	XSX01	372	682	0
+35NC	XSX06	11	11	0
+35NC	XSX08	1	1	0
+61BA	XSX01	3	3	0

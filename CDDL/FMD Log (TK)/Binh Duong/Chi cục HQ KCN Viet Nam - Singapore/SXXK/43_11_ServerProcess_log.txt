@@ -1,0 +1,48 @@
+MaHQ   server                  
+------ ------------------------
+03EE   Server 3: 10.224.130.143
+27F1   Server 1: 10.224.130.123
+34NG   Server 2: 10.224.130.133
+02B1   Server 1: 10.224.130.123
+27PE   Server 2: 10.224.130.133
+01IK   Server 1: 10.224.130.123
+01ZZ   NULL                    
+03NK   Server 4: 10.224.130.153
+43K1   Server 3: 10.224.130.143
+27ZZ   NULL                    
+43K2   Server 3: 10.224.130.143
+03ZZ   NULL                    
+02PG   Server 9: 10.224.130.203
+01E1   Server 2: 10.224.130.133
+34AB   Server 1: 10.224.130.123
+47BA   NULL                    
+03PJ   Server 6: 10.224.130.173
+43NF   Server 6: 10.224.130.173
+01NV   Server 1: 10.224.130.123
+01PP   NULL                    
+
+(20 rows affected)
+MaHQ   server                  
+------ ------------------------
+03EE   Server 3: 10.224.130.143
+27ZZ   NULL                    
+43K2   Server 3: 10.224.130.143
+34NG   Server 2: 10.224.130.133
+02B1   Server 1: 10.224.130.123
+27PE   Server 2: 10.224.130.133
+03ZZ   NULL                    
+01ZZ   NULL                    
+03NK   Server 4: 10.224.130.153
+27F1   Server 1: 10.224.130.123
+01IK   Server 1: 10.224.130.123
+43K1   Server 3: 10.224.130.143
+34AB   Server 1: 10.224.130.123
+47BA   NULL                    
+01E1   Server 2: 10.224.130.133
+02PG   Server 9: 10.224.130.203
+01NV   Server 1: 10.224.130.123
+01PP   NULL                    
+03PJ   Server 6: 10.224.130.173
+43NF   Server 6: 10.224.130.173
+
+(20 rows affected)
